@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 143,
+    "height" : 91
+  }, {
+    "width" : 285,
+    "height" : 181
+  }, {
+    "width" : 569,
+    "height" : 361
+  }, {
+    "width" : 1138,
+    "height" : 722
+  }, {
+    "width" : 2275,
+    "height" : 1443
+  }, {
+    "width" : 4550,
+    "height" : 2886
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 4550,
+  "@id" : "https://kam535.github.io/hist2391/images/test-image3",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2886
+}

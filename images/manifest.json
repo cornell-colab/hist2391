@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 11416,
+    "id" : "https://kam535.github.io/hist2391/images/G3701P31895R3/canvas/",
+    "label" : {
+      "none" : [ "G3701P31895R3" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://kam535.github.io/hist2391/images/G3701P31895R3/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://kam535.github.io/hist2391/images/G3701P31895R3/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 357,
+              "height" : 232
+            }, {
+              "width" : 714,
+              "height" : 463
+            }, {
+              "width" : 1427,
+              "height" : 926
+            }, {
+              "width" : 2854,
+              "height" : 1851
+            }, {
+              "width" : 5708,
+              "height" : 3701
+            }, {
+              "width" : 11416,
+              "height" : 7402
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 11416,
+            "@id" : "https://kam535.github.io/hist2391/images/G3701P31895R3",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 7402
+          } ],
+          "format" : "image/jpeg",
+          "width" : 11416,
+          "id" : "https://kam535.github.io/hist2391/images/G3701P31895R3/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 7402
+        },
+        "target" : "https://kam535.github.io/hist2391/images/G3701P31895R3/canvas/"
+      } ]
+    } ],
+    "height" : 7402
+  }, {
     "width" : 6324,
     "id" : "https://kam535.github.io/hist2391/images/G4104C61898R3/canvas/",
     "label" : {

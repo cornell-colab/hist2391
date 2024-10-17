@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 349,
+    "height" : 214
+  }, {
+    "width" : 697,
+    "height" : 428
+  }, {
+    "width" : 1393,
+    "height" : 856
+  }, {
+    "width" : 2786,
+    "height" : 1711
+  }, {
+    "width" : 5572,
+    "height" : 3421
+  }, {
+    "width" : 11144,
+    "height" : 6841
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 11144,
+  "@id" : "https://kam535.github.io/hist2391/images/G3701P31900M3",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 6841
+}

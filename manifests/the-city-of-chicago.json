@@ -1,0 +1,67 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://cornell-colab.github.io/test/manifests/the-city-of-chicago.json",
+  "@type" : "sc:Manifest",
+  "label" : "The city of Chicago",
+  "metadata" : [ {
+    "label" : "Author",
+    "value" : "\nCurrier & Ives."
+  }, {
+    "label" : "Published",
+    "value" : "New York, Currier & Ives, c1892. Ithaca, N.Y., Historic Urban Plans, 1970."
+  }, {
+    "label" : "Subject",
+    "value" : "\nChicago (Ill.) > Aerial views.\nMaps > Facsimiles."
+  }, {
+    "label" : "Contributor",
+    "value" : "Historic Urban Plans (Firm)"
+  }, {
+    "label" : "Notes",
+    "value" : "Facsimile. Bird's-eye-view. \"Reproduced from an original lithograph published by Currier and Ives in the Amon Carter Museum of Western Art, Fort Worth, Texas.\" Shows points of interest."
+  }, {
+    "label" : "Record number",
+    "value" : "G4104.C6A3 1892a C8"
+  } ],
+  "description" : [ {
+    "@value" : "col. map 45 x 70 cm.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Cornell University Library",
+  "sequences" : [ {
+    "@id" : "http://5e45ff00-5732-47a8-ba88-269c53991b57",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://6ee2750e-c7e2-4402-9c30-082e8197567a",
+      "@type" : "sc:Canvas",
+      "label" : "The city of Chicago",
+      "height" : 6721,
+      "width" : 9412,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d06efcb9-2c06-4b3d-b468-e7d42d996d29",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C6A31892aC82/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C6A31892aC82",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 6721,
+          "width" : 9412
+        },
+        "on" : "http://6ee2750e-c7e2-4402-9c30-082e8197567a"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

@@ -1,0 +1,73 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://cornell-colab.github.io/test/manifests/chicago-at-the-millenium-side1.json",
+  "@type" : "sc:Manifest",
+  "label" : "Chicago at the millennium, a thousand years of change, side 1\n",
+  "metadata" : [ {
+    "label" : "Record number",
+    "value" : "G4104.C6A43 1999 H4"
+  }, {
+    "label" : "Author",
+    "value" : "\nHedberg Maps, Inc."
+  }, {
+    "label" : "Published",
+    "value" : "\n[Minneapolis, Minn.] : White Star Press ; Santa Barbara, CA : Map Link Inc. [distributor], c1999."
+  }, {
+    "label" : "Subject",
+    "value" : "Chicago (Ill.) > Remote-sensing images.\nChicago (Ill.) > Aerial views > Facsimiles.\nChicago (Ill.) > Aerial views.\nChicago Region (Ill.) > Maps."
+  }, {
+    "label" : "ISBN",
+    "value" : "1885508522"
+  }, {
+    "label" : "Table of contents",
+    "value" : "\nSatellite image 1999\nLandforms 1000 A.D. : [map]\nAerial image 1999 : [col. photo]\nBird's-eye view 1868 : [facsimile]."
+  }, {
+    "label" : "Format",
+    "value" : "Scale not given.\nNot drawn to scale."
+  }, {
+    "label" : "Notes",
+    "value" : "Relief shown by shading on landforms map.\nIncludes text, population graph, and photograph.\nAncillary maps/views: Chicago : [Metro-area road map] -- Birds-eye view of the World's Columbian Exposition , Chicago 1893."
+  } ],
+  "description" : [ {
+    "@value" : "satellite imagery, birds-eye views, historical topography : 2000 ... 1000; \"design & production, Hedberg Maps, Inc.\"; 1 remote-sensing image and 2 views and 1 map on 1 sheet : both sides, col. ; 28 x 30 cm. or smaller, sheet 46 x 61 cm., folded to 23 x 11 cm.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Cornell University Library",
+  "sequences" : [ {
+    "@id" : "http://49c3130b-42ba-4466-829b-432d62741edd",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://0a68a6e8-7ce7-414c-bb50-fc116d6be3be",
+      "@type" : "sc:Canvas",
+      "label" : "Chicago at the millennium, a thousand years of change, side 1\n\n",
+      "height" : 5420,
+      "width" : 7236,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6bcbb8e5-556a-4b9c-aaf6-097e157c4a72",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C61999H4side1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C61999H4side1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5420,
+          "width" : 7236
+        },
+        "on" : "http://0a68a6e8-7ce7-414c-bb50-fc116d6be3be"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 11144,
-  "@id" : "https://kam535.github.io/hist2391/images/G3701P31900M3",
+  "@id" : "https://cornell-colab.github.io/hist2391/images/G3701P31900M3",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 6841
 }

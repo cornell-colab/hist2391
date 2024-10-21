@@ -1,23 +1,23 @@
 {
-  "id" : "https://kam535.github.io/hist2391/images/manifest.json",
+  "id" : "https://cornell-colab.github.io/hist2391/images/manifest.json",
   "label" : {
-    "en" : [ "All images loaded in kam535/hist2391 project" ]
+    "en" : [ "All images loaded in cornell-colab/hist2391 project" ]
   },
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "width" : 6952,
-    "id" : "https://kam535.github.io/hist2391/images/G4104C6A351871aD8/canvas/",
+    "id" : "https://cornell-colab.github.io/hist2391/images/G4104C6A351871aD8/canvas/",
     "label" : {
       "none" : [ "G4104C6A351871aD8" ]
     },
     "type" : "Canvas",
     "items" : [ {
-      "id" : "https://kam535.github.io/hist2391/images/G4104C6A351871aD8/AnnoPage/",
+      "id" : "https://cornell-colab.github.io/hist2391/images/G4104C6A351871aD8/AnnoPage/",
       "type" : "AnnotationPage",
       "items" : [ {
         "motivation" : "Painting",
-        "id" : "https://kam535.github.io/hist2391/images/G4104C6A351871aD8/annotation/",
+        "id" : "https://cornell-colab.github.io/hist2391/images/G4104C6A351871aD8/annotation/",
         "type" : "Annotation",
         "body" : {
           "service" : [ {
@@ -48,33 +48,33 @@
             } ],
             "profile" : "http://iiif.io/api/image/2/level0.json",
             "width" : 6952,
-            "@id" : "https://kam535.github.io/hist2391/images/G4104C6A351871aD8",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C6A351871aD8",
             "@context" : "http://iiif.io/api/image/2/context.json",
             "height" : 5214
           } ],
           "format" : "image/jpeg",
           "width" : 6952,
-          "id" : "https://kam535.github.io/hist2391/images/G4104C6A351871aD8/full/full/0/default.jpg",
+          "id" : "https://cornell-colab.github.io/hist2391/images/G4104C6A351871aD8/full/full/0/default.jpg",
           "type" : "Image",
           "height" : 5214
         },
-        "target" : "https://kam535.github.io/hist2391/images/G4104C6A351871aD8/canvas/"
+        "target" : "https://cornell-colab.github.io/hist2391/images/G4104C6A351871aD8/canvas/"
       } ]
     } ],
     "height" : 5214
   }, {
     "width" : 11416,
-    "id" : "https://kam535.github.io/hist2391/images/G3701P31895R3/canvas/",
+    "id" : "https://cornell-colab.github.io/hist2391/images/G3701P31895R3/canvas/",
     "label" : {
       "none" : [ "G3701P31895R3" ]
     },
     "type" : "Canvas",
     "items" : [ {
-      "id" : "https://kam535.github.io/hist2391/images/G3701P31895R3/AnnoPage/",
+      "id" : "https://cornell-colab.github.io/hist2391/images/G3701P31895R3/AnnoPage/",
       "type" : "AnnotationPage",
       "items" : [ {
         "motivation" : "Painting",
-        "id" : "https://kam535.github.io/hist2391/images/G3701P31895R3/annotation/",
+        "id" : "https://cornell-colab.github.io/hist2391/images/G3701P31895R3/annotation/",
         "type" : "Annotation",
         "body" : {
           "service" : [ {
@@ -105,33 +105,33 @@
             } ],
             "profile" : "http://iiif.io/api/image/2/level0.json",
             "width" : 11416,
-            "@id" : "https://kam535.github.io/hist2391/images/G3701P31895R3",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G3701P31895R3",
             "@context" : "http://iiif.io/api/image/2/context.json",
             "height" : 7402
           } ],
           "format" : "image/jpeg",
           "width" : 11416,
-          "id" : "https://kam535.github.io/hist2391/images/G3701P31895R3/full/full/0/default.jpg",
+          "id" : "https://cornell-colab.github.io/hist2391/images/G3701P31895R3/full/full/0/default.jpg",
           "type" : "Image",
           "height" : 7402
         },
-        "target" : "https://kam535.github.io/hist2391/images/G3701P31895R3/canvas/"
+        "target" : "https://cornell-colab.github.io/hist2391/images/G3701P31895R3/canvas/"
       } ]
     } ],
     "height" : 7402
   }, {
     "width" : 6324,
-    "id" : "https://kam535.github.io/hist2391/images/G4104C61898R3/canvas/",
+    "id" : "https://cornell-colab.github.io/hist2391/images/G4104C61898R3/canvas/",
     "label" : {
       "none" : [ "G4104C61898R3" ]
     },
     "type" : "Canvas",
     "items" : [ {
-      "id" : "https://kam535.github.io/hist2391/images/G4104C61898R3/AnnoPage/",
+      "id" : "https://cornell-colab.github.io/hist2391/images/G4104C61898R3/AnnoPage/",
       "type" : "AnnotationPage",
       "items" : [ {
         "motivation" : "Painting",
-        "id" : "https://kam535.github.io/hist2391/images/G4104C61898R3/annotation/",
+        "id" : "https://cornell-colab.github.io/hist2391/images/G4104C61898R3/annotation/",
         "type" : "Annotation",
         "body" : {
           "service" : [ {
@@ -162,33 +162,33 @@
             } ],
             "profile" : "http://iiif.io/api/image/2/level0.json",
             "width" : 6324,
-            "@id" : "https://kam535.github.io/hist2391/images/G4104C61898R3",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C61898R3",
             "@context" : "http://iiif.io/api/image/2/context.json",
             "height" : 8420
           } ],
           "format" : "image/jpeg",
           "width" : 6324,
-          "id" : "https://kam535.github.io/hist2391/images/G4104C61898R3/full/full/0/default.jpg",
+          "id" : "https://cornell-colab.github.io/hist2391/images/G4104C61898R3/full/full/0/default.jpg",
           "type" : "Image",
           "height" : 8420
         },
-        "target" : "https://kam535.github.io/hist2391/images/G4104C61898R3/canvas/"
+        "target" : "https://cornell-colab.github.io/hist2391/images/G4104C61898R3/canvas/"
       } ]
     } ],
     "height" : 8420
   }, {
     "width" : 9412,
-    "id" : "https://kam535.github.io/hist2391/images/G4104C6A31892aC82/canvas/",
+    "id" : "https://cornell-colab.github.io/hist2391/images/G4104C6A31892aC82/canvas/",
     "label" : {
       "none" : [ "G4104C6A31892aC82" ]
     },
     "type" : "Canvas",
     "items" : [ {
-      "id" : "https://kam535.github.io/hist2391/images/G4104C6A31892aC82/AnnoPage/",
+      "id" : "https://cornell-colab.github.io/hist2391/images/G4104C6A31892aC82/AnnoPage/",
       "type" : "AnnotationPage",
       "items" : [ {
         "motivation" : "Painting",
-        "id" : "https://kam535.github.io/hist2391/images/G4104C6A31892aC82/annotation/",
+        "id" : "https://cornell-colab.github.io/hist2391/images/G4104C6A31892aC82/annotation/",
         "type" : "Annotation",
         "body" : {
           "service" : [ {
@@ -219,33 +219,33 @@
             } ],
             "profile" : "http://iiif.io/api/image/2/level0.json",
             "width" : 9412,
-            "@id" : "https://kam535.github.io/hist2391/images/G4104C6A31892aC82",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C6A31892aC82",
             "@context" : "http://iiif.io/api/image/2/context.json",
             "height" : 6721
           } ],
           "format" : "image/jpeg",
           "width" : 9412,
-          "id" : "https://kam535.github.io/hist2391/images/G4104C6A31892aC82/full/full/0/default.jpg",
+          "id" : "https://cornell-colab.github.io/hist2391/images/G4104C6A31892aC82/full/full/0/default.jpg",
           "type" : "Image",
           "height" : 6721
         },
-        "target" : "https://kam535.github.io/hist2391/images/G4104C6A31892aC82/canvas/"
+        "target" : "https://cornell-colab.github.io/hist2391/images/G4104C6A31892aC82/canvas/"
       } ]
     } ],
     "height" : 6721
   }, {
     "width" : 6704,
-    "id" : "https://kam535.github.io/hist2391/images/G4104C61834W7/canvas/",
+    "id" : "https://cornell-colab.github.io/hist2391/images/G4104C61834W7/canvas/",
     "label" : {
       "none" : [ "G4104C61834W7" ]
     },
     "type" : "Canvas",
     "items" : [ {
-      "id" : "https://kam535.github.io/hist2391/images/G4104C61834W7/AnnoPage/",
+      "id" : "https://cornell-colab.github.io/hist2391/images/G4104C61834W7/AnnoPage/",
       "type" : "AnnotationPage",
       "items" : [ {
         "motivation" : "Painting",
-        "id" : "https://kam535.github.io/hist2391/images/G4104C61834W7/annotation/",
+        "id" : "https://cornell-colab.github.io/hist2391/images/G4104C61834W7/annotation/",
         "type" : "Annotation",
         "body" : {
           "service" : [ {
@@ -276,33 +276,33 @@
             } ],
             "profile" : "http://iiif.io/api/image/2/level0.json",
             "width" : 6704,
-            "@id" : "https://kam535.github.io/hist2391/images/G4104C61834W7",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C61834W7",
             "@context" : "http://iiif.io/api/image/2/context.json",
             "height" : 5099
           } ],
           "format" : "image/jpeg",
           "width" : 6704,
-          "id" : "https://kam535.github.io/hist2391/images/G4104C61834W7/full/full/0/default.jpg",
+          "id" : "https://cornell-colab.github.io/hist2391/images/G4104C61834W7/full/full/0/default.jpg",
           "type" : "Image",
           "height" : 5099
         },
-        "target" : "https://kam535.github.io/hist2391/images/G4104C61834W7/canvas/"
+        "target" : "https://cornell-colab.github.io/hist2391/images/G4104C61834W7/canvas/"
       } ]
     } ],
     "height" : 5099
   }, {
     "width" : 5056,
-    "id" : "https://kam535.github.io/hist2391/images/G4104C6L441887P5/canvas/",
+    "id" : "https://cornell-colab.github.io/hist2391/images/G4104C6L441887P5/canvas/",
     "label" : {
       "none" : [ "G4104C6L441887P5" ]
     },
     "type" : "Canvas",
     "items" : [ {
-      "id" : "https://kam535.github.io/hist2391/images/G4104C6L441887P5/AnnoPage/",
+      "id" : "https://cornell-colab.github.io/hist2391/images/G4104C6L441887P5/AnnoPage/",
       "type" : "AnnotationPage",
       "items" : [ {
         "motivation" : "Painting",
-        "id" : "https://kam535.github.io/hist2391/images/G4104C6L441887P5/annotation/",
+        "id" : "https://cornell-colab.github.io/hist2391/images/G4104C6L441887P5/annotation/",
         "type" : "Annotation",
         "body" : {
           "service" : [ {
@@ -333,33 +333,33 @@
             } ],
             "profile" : "http://iiif.io/api/image/2/level0.json",
             "width" : 5056,
-            "@id" : "https://kam535.github.io/hist2391/images/G4104C6L441887P5",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C6L441887P5",
             "@context" : "http://iiif.io/api/image/2/context.json",
             "height" : 3207
           } ],
           "format" : "image/jpeg",
           "width" : 5056,
-          "id" : "https://kam535.github.io/hist2391/images/G4104C6L441887P5/full/full/0/default.jpg",
+          "id" : "https://cornell-colab.github.io/hist2391/images/G4104C6L441887P5/full/full/0/default.jpg",
           "type" : "Image",
           "height" : 3207
         },
-        "target" : "https://kam535.github.io/hist2391/images/G4104C6L441887P5/canvas/"
+        "target" : "https://cornell-colab.github.io/hist2391/images/G4104C6L441887P5/canvas/"
       } ]
     } ],
     "height" : 3207
   }, {
     "width" : 5408,
-    "id" : "https://kam535.github.io/hist2391/images/G4104C61909C6/canvas/",
+    "id" : "https://cornell-colab.github.io/hist2391/images/G4104C61909C6/canvas/",
     "label" : {
       "none" : [ "G4104C61909C6" ]
     },
     "type" : "Canvas",
     "items" : [ {
-      "id" : "https://kam535.github.io/hist2391/images/G4104C61909C6/AnnoPage/",
+      "id" : "https://cornell-colab.github.io/hist2391/images/G4104C61909C6/AnnoPage/",
       "type" : "AnnotationPage",
       "items" : [ {
         "motivation" : "Painting",
-        "id" : "https://kam535.github.io/hist2391/images/G4104C61909C6/annotation/",
+        "id" : "https://cornell-colab.github.io/hist2391/images/G4104C61909C6/annotation/",
         "type" : "Annotation",
         "body" : {
           "service" : [ {
@@ -390,33 +390,33 @@
             } ],
             "profile" : "http://iiif.io/api/image/2/level0.json",
             "width" : 5408,
-            "@id" : "https://kam535.github.io/hist2391/images/G4104C61909C6",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C61909C6",
             "@context" : "http://iiif.io/api/image/2/context.json",
             "height" : 3923
           } ],
           "format" : "image/jpeg",
           "width" : 5408,
-          "id" : "https://kam535.github.io/hist2391/images/G4104C61909C6/full/full/0/default.jpg",
+          "id" : "https://cornell-colab.github.io/hist2391/images/G4104C61909C6/full/full/0/default.jpg",
           "type" : "Image",
           "height" : 3923
         },
-        "target" : "https://kam535.github.io/hist2391/images/G4104C61909C6/canvas/"
+        "target" : "https://cornell-colab.github.io/hist2391/images/G4104C61909C6/canvas/"
       } ]
     } ],
     "height" : 3923
   }, {
     "width" : 5460,
-    "id" : "https://kam535.github.io/hist2391/images/G4104C61893R3/canvas/",
+    "id" : "https://cornell-colab.github.io/hist2391/images/G4104C61893R3/canvas/",
     "label" : {
       "none" : [ "G4104C61893R3" ]
     },
     "type" : "Canvas",
     "items" : [ {
-      "id" : "https://kam535.github.io/hist2391/images/G4104C61893R3/AnnoPage/",
+      "id" : "https://cornell-colab.github.io/hist2391/images/G4104C61893R3/AnnoPage/",
       "type" : "AnnotationPage",
       "items" : [ {
         "motivation" : "Painting",
-        "id" : "https://kam535.github.io/hist2391/images/G4104C61893R3/annotation/",
+        "id" : "https://cornell-colab.github.io/hist2391/images/G4104C61893R3/annotation/",
         "type" : "Annotation",
         "body" : {
           "service" : [ {
@@ -447,33 +447,33 @@
             } ],
             "profile" : "http://iiif.io/api/image/2/level0.json",
             "width" : 5460,
-            "@id" : "https://kam535.github.io/hist2391/images/G4104C61893R3",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C61893R3",
             "@context" : "http://iiif.io/api/image/2/context.json",
             "height" : 4949
           } ],
           "format" : "image/jpeg",
           "width" : 5460,
-          "id" : "https://kam535.github.io/hist2391/images/G4104C61893R3/full/full/0/default.jpg",
+          "id" : "https://cornell-colab.github.io/hist2391/images/G4104C61893R3/full/full/0/default.jpg",
           "type" : "Image",
           "height" : 4949
         },
-        "target" : "https://kam535.github.io/hist2391/images/G4104C61893R3/canvas/"
+        "target" : "https://cornell-colab.github.io/hist2391/images/G4104C61893R3/canvas/"
       } ]
     } ],
     "height" : 4949
   }, {
     "width" : 5320,
-    "id" : "https://kam535.github.io/hist2391/images/G4104C62D61885R3/canvas/",
+    "id" : "https://cornell-colab.github.io/hist2391/images/G4104C62D61885R3/canvas/",
     "label" : {
       "none" : [ "G4104C62D61885R3" ]
     },
     "type" : "Canvas",
     "items" : [ {
-      "id" : "https://kam535.github.io/hist2391/images/G4104C62D61885R3/AnnoPage/",
+      "id" : "https://cornell-colab.github.io/hist2391/images/G4104C62D61885R3/AnnoPage/",
       "type" : "AnnotationPage",
       "items" : [ {
         "motivation" : "Painting",
-        "id" : "https://kam535.github.io/hist2391/images/G4104C62D61885R3/annotation/",
+        "id" : "https://cornell-colab.github.io/hist2391/images/G4104C62D61885R3/annotation/",
         "type" : "Annotation",
         "body" : {
           "service" : [ {
@@ -504,33 +504,33 @@
             } ],
             "profile" : "http://iiif.io/api/image/2/level0.json",
             "width" : 5320,
-            "@id" : "https://kam535.github.io/hist2391/images/G4104C62D61885R3",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C62D61885R3",
             "@context" : "http://iiif.io/api/image/2/context.json",
             "height" : 3069
           } ],
           "format" : "image/jpeg",
           "width" : 5320,
-          "id" : "https://kam535.github.io/hist2391/images/G4104C62D61885R3/full/full/0/default.jpg",
+          "id" : "https://cornell-colab.github.io/hist2391/images/G4104C62D61885R3/full/full/0/default.jpg",
           "type" : "Image",
           "height" : 3069
         },
-        "target" : "https://kam535.github.io/hist2391/images/G4104C62D61885R3/canvas/"
+        "target" : "https://cornell-colab.github.io/hist2391/images/G4104C62D61885R3/canvas/"
       } ]
     } ],
     "height" : 3069
   }, {
     "width" : 4116,
-    "id" : "https://kam535.github.io/hist2391/images/G4104C6G521871C4/canvas/",
+    "id" : "https://cornell-colab.github.io/hist2391/images/G4104C6G521871C4/canvas/",
     "label" : {
       "none" : [ "G4104C6G521871C4" ]
     },
     "type" : "Canvas",
     "items" : [ {
-      "id" : "https://kam535.github.io/hist2391/images/G4104C6G521871C4/AnnoPage/",
+      "id" : "https://cornell-colab.github.io/hist2391/images/G4104C6G521871C4/AnnoPage/",
       "type" : "AnnotationPage",
       "items" : [ {
         "motivation" : "Painting",
-        "id" : "https://kam535.github.io/hist2391/images/G4104C6G521871C4/annotation/",
+        "id" : "https://cornell-colab.github.io/hist2391/images/G4104C6G521871C4/annotation/",
         "type" : "Annotation",
         "body" : {
           "service" : [ {
@@ -561,33 +561,33 @@
             } ],
             "profile" : "http://iiif.io/api/image/2/level0.json",
             "width" : 4116,
-            "@id" : "https://kam535.github.io/hist2391/images/G4104C6G521871C4",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C6G521871C4",
             "@context" : "http://iiif.io/api/image/2/context.json",
             "height" : 5320
           } ],
           "format" : "image/jpeg",
           "width" : 4116,
-          "id" : "https://kam535.github.io/hist2391/images/G4104C6G521871C4/full/full/0/default.jpg",
+          "id" : "https://cornell-colab.github.io/hist2391/images/G4104C6G521871C4/full/full/0/default.jpg",
           "type" : "Image",
           "height" : 5320
         },
-        "target" : "https://kam535.github.io/hist2391/images/G4104C6G521871C4/canvas/"
+        "target" : "https://cornell-colab.github.io/hist2391/images/G4104C6G521871C4/canvas/"
       } ]
     } ],
     "height" : 5320
   }, {
     "width" : 5116,
-    "id" : "https://kam535.github.io/hist2391/images/G4104C624821885R3/canvas/",
+    "id" : "https://cornell-colab.github.io/hist2391/images/G4104C624821885R3/canvas/",
     "label" : {
       "none" : [ "G4104C624821885R3" ]
     },
     "type" : "Canvas",
     "items" : [ {
-      "id" : "https://kam535.github.io/hist2391/images/G4104C624821885R3/AnnoPage/",
+      "id" : "https://cornell-colab.github.io/hist2391/images/G4104C624821885R3/AnnoPage/",
       "type" : "AnnotationPage",
       "items" : [ {
         "motivation" : "Painting",
-        "id" : "https://kam535.github.io/hist2391/images/G4104C624821885R3/annotation/",
+        "id" : "https://cornell-colab.github.io/hist2391/images/G4104C624821885R3/annotation/",
         "type" : "Annotation",
         "body" : {
           "service" : [ {
@@ -618,33 +618,33 @@
             } ],
             "profile" : "http://iiif.io/api/image/2/level0.json",
             "width" : 5116,
-            "@id" : "https://kam535.github.io/hist2391/images/G4104C624821885R3",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C624821885R3",
             "@context" : "http://iiif.io/api/image/2/context.json",
             "height" : 3289
           } ],
           "format" : "image/jpeg",
           "width" : 5116,
-          "id" : "https://kam535.github.io/hist2391/images/G4104C624821885R3/full/full/0/default.jpg",
+          "id" : "https://cornell-colab.github.io/hist2391/images/G4104C624821885R3/full/full/0/default.jpg",
           "type" : "Image",
           "height" : 3289
         },
-        "target" : "https://kam535.github.io/hist2391/images/G4104C624821885R3/canvas/"
+        "target" : "https://cornell-colab.github.io/hist2391/images/G4104C624821885R3/canvas/"
       } ]
     } ],
     "height" : 3289
   }, {
     "width" : 5284,
-    "id" : "https://kam535.github.io/hist2391/images/G4104C62G31885R3/canvas/",
+    "id" : "https://cornell-colab.github.io/hist2391/images/G4104C62G31885R3/canvas/",
     "label" : {
       "none" : [ "G4104C62G31885R3" ]
     },
     "type" : "Canvas",
     "items" : [ {
-      "id" : "https://kam535.github.io/hist2391/images/G4104C62G31885R3/AnnoPage/",
+      "id" : "https://cornell-colab.github.io/hist2391/images/G4104C62G31885R3/AnnoPage/",
       "type" : "AnnotationPage",
       "items" : [ {
         "motivation" : "Painting",
-        "id" : "https://kam535.github.io/hist2391/images/G4104C62G31885R3/annotation/",
+        "id" : "https://cornell-colab.github.io/hist2391/images/G4104C62G31885R3/annotation/",
         "type" : "Annotation",
         "body" : {
           "service" : [ {
@@ -675,33 +675,33 @@
             } ],
             "profile" : "http://iiif.io/api/image/2/level0.json",
             "width" : 5284,
-            "@id" : "https://kam535.github.io/hist2391/images/G4104C62G31885R3",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C62G31885R3",
             "@context" : "http://iiif.io/api/image/2/context.json",
             "height" : 3109
           } ],
           "format" : "image/jpeg",
           "width" : 5284,
-          "id" : "https://kam535.github.io/hist2391/images/G4104C62G31885R3/full/full/0/default.jpg",
+          "id" : "https://cornell-colab.github.io/hist2391/images/G4104C62G31885R3/full/full/0/default.jpg",
           "type" : "Image",
           "height" : 3109
         },
-        "target" : "https://kam535.github.io/hist2391/images/G4104C62G31885R3/canvas/"
+        "target" : "https://cornell-colab.github.io/hist2391/images/G4104C62G31885R3/canvas/"
       } ]
     } ],
     "height" : 3109
   }, {
     "width" : 5488,
-    "id" : "https://kam535.github.io/hist2391/images/G3701P31899W4/canvas/",
+    "id" : "https://cornell-colab.github.io/hist2391/images/G3701P31899W4/canvas/",
     "label" : {
       "none" : [ "G3701P31899W4" ]
     },
     "type" : "Canvas",
     "items" : [ {
-      "id" : "https://kam535.github.io/hist2391/images/G3701P31899W4/AnnoPage/",
+      "id" : "https://cornell-colab.github.io/hist2391/images/G3701P31899W4/AnnoPage/",
       "type" : "AnnotationPage",
       "items" : [ {
         "motivation" : "Painting",
-        "id" : "https://kam535.github.io/hist2391/images/G3701P31899W4/annotation/",
+        "id" : "https://cornell-colab.github.io/hist2391/images/G3701P31899W4/annotation/",
         "type" : "Annotation",
         "body" : {
           "service" : [ {
@@ -732,33 +732,33 @@
             } ],
             "profile" : "http://iiif.io/api/image/2/level0.json",
             "width" : 5488,
-            "@id" : "https://kam535.github.io/hist2391/images/G3701P31899W4",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G3701P31899W4",
             "@context" : "http://iiif.io/api/image/2/context.json",
             "height" : 3383
           } ],
           "format" : "image/jpeg",
           "width" : 5488,
-          "id" : "https://kam535.github.io/hist2391/images/G3701P31899W4/full/full/0/default.jpg",
+          "id" : "https://cornell-colab.github.io/hist2391/images/G3701P31899W4/full/full/0/default.jpg",
           "type" : "Image",
           "height" : 3383
         },
-        "target" : "https://kam535.github.io/hist2391/images/G3701P31899W4/canvas/"
+        "target" : "https://cornell-colab.github.io/hist2391/images/G3701P31899W4/canvas/"
       } ]
     } ],
     "height" : 3383
   }, {
     "width" : 5496,
-    "id" : "https://kam535.github.io/hist2391/images/G4104C61893/canvas/",
+    "id" : "https://cornell-colab.github.io/hist2391/images/G4104C61893/canvas/",
     "label" : {
       "none" : [ "G4104C61893" ]
     },
     "type" : "Canvas",
     "items" : [ {
-      "id" : "https://kam535.github.io/hist2391/images/G4104C61893/AnnoPage/",
+      "id" : "https://cornell-colab.github.io/hist2391/images/G4104C61893/AnnoPage/",
       "type" : "AnnotationPage",
       "items" : [ {
         "motivation" : "Painting",
-        "id" : "https://kam535.github.io/hist2391/images/G4104C61893/annotation/",
+        "id" : "https://cornell-colab.github.io/hist2391/images/G4104C61893/annotation/",
         "type" : "Annotation",
         "body" : {
           "service" : [ {
@@ -789,17 +789,17 @@
             } ],
             "profile" : "http://iiif.io/api/image/2/level0.json",
             "width" : 5496,
-            "@id" : "https://kam535.github.io/hist2391/images/G4104C61893",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C61893",
             "@context" : "http://iiif.io/api/image/2/context.json",
             "height" : 3951
           } ],
           "format" : "image/jpeg",
           "width" : 5496,
-          "id" : "https://kam535.github.io/hist2391/images/G4104C61893/full/full/0/default.jpg",
+          "id" : "https://cornell-colab.github.io/hist2391/images/G4104C61893/full/full/0/default.jpg",
           "type" : "Image",
           "height" : 3951
         },
-        "target" : "https://kam535.github.io/hist2391/images/G4104C61893/canvas/"
+        "target" : "https://cornell-colab.github.io/hist2391/images/G4104C61893/canvas/"
       } ]
     } ],
     "height" : 3951

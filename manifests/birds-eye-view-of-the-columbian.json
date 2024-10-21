@@ -1,0 +1,61 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://cornell-colab.github.io/test/manifests/birds-eye-view-of-the-columbian.json",
+  "@type" : "sc:Manifest",
+  "label" : "Birds eye view [of the] World's Columbian Exposition",
+  "metadata" : [ {
+    "label" : "Published",
+    "value" : "[Chicago : The Bancroft Co., 1893]"
+  }, {
+    "label" : "Subject",
+    "value" : "World's Columbian Exposition (1893 : Chicago, Ill.) > Maps."
+  }, {
+    "label" : "Format",
+    "value" : "Not drawn to scale."
+  }, {
+    "label" : "Notes",
+    "value" : "Bird's-eye view. Negative photostat. From: Bancroft, Hubert Howe, The book of the Fair. Chicago, 1893."
+  } ],
+  "description" : [ {
+    "@value" : "view 21 x 31 cm.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://3e4103cf-e60d-45a1-b9a7-a82f1bfa7c06",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://a9309a22-c5c9-49e4-b52a-817e11c56d7b",
+      "@type" : "sc:Canvas",
+      "label" : "Birds eye view [of the] World's Columbian Exposition",
+      "height" : 3951,
+      "width" : 5496,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a13fc6e6-2506-463c-8737-6a033df60824",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C61893/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C61893",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3951,
+          "width" : 5496
+        },
+        "on" : "http://a9309a22-c5c9-49e4-b52a-817e11c56d7b"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

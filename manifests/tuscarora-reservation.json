@@ -1,0 +1,70 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://cornell-colab.github.io/hist2391/manifests/tuscarora-reservation.json",
+  "@type" : "sc:Manifest",
+  "label" : "Map of Tuscarora Indian Reservation ... 1890",
+  "metadata" : [ {
+    "label" : "Published",
+    "value" : "Washington, D.C. : G.P.O., 1894."
+  }, {
+    "label" : "Author",
+    "value" : "\nUnited States. Census Office. "
+  }, {
+    "label" : "Subjects",
+    "value" : "Indians of North America > New York (State) > Maps.\nUnited States > Census, 11th, 1890 > Maps."
+  }, {
+    "label" : "Related work",
+    "value" : "Census of the United States (1890). Indians."
+  }, {
+    "label" : "Notes",
+    "value" : "Relief shown by hachures on some maps.\nTitle supplied by cataloger.\nXerographic copies.\nReproduced from Report on Indians taxed and Indians not taxed in the United States (except Alaska) at the eleventh census: 1890. Washington, D.C. : G.P.O., 1894.\nPhotocopy. Ithaca, N.Y. : Cornell University Library, 2001."
+  }, {
+    "label" : "Format",
+    "value" : "Scales vary."
+  }, {
+    "label" : "Record number",
+    "value" : "G3801.E1 1890 U5"
+  } ],
+  "description" : [ {
+    "@value" : "Part of series [Indians, the Six Nations of New York, maps.], no. 8; [1 of] 9 maps : photocopies ; 24 x 38 cm. or smaller.; series other titles: Six Nations of New York, maps\nTitle in upper margin of maps: Eleventh census of the United States, Indians",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Cornell University Library",
+  "sequences" : [ {
+    "@id" : "http://8778cc0b-aec7-4a73-8757-13dd5e431f08",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://3c5c22c0-783d-4b13-bd58-ed2c0c91be9e",
+      "@type" : "sc:Canvas",
+      "label" : "Map of Tuscarora Indian Reservation ... 1890",
+      "height" : 3327,
+      "width" : 5168,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://1364b939-8c3c-4904-aa1c-c5ec975a32a7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://cornell-colab.github.io/hist2391/images/tuscarora-indian-reservation/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/tuscarora-indian-reservation",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3327,
+          "width" : 5168
+        },
+        "on" : "http://3c5c22c0-783d-4b13-bd58-ed2c0c91be9e"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

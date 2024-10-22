@@ -1,0 +1,85 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://cornell-colab.github.io/hist2391/manifests/nypl-greater-ny.json",
+  "@type" : "sc:Manifest",
+  "label" : "Greater New York and contigous territory, showing the Indian paths, together with the approximate situation of all known Indian stations, Map I",
+  "metadata" : [ {
+    "label" : "Names",
+    "value" : "A.R. Ohman Map Co. (Creator)\nBolton, Reginald Pelham, 1856-1942 (Creator)\nOhman, August R. (Creator)\nMuseum of the American Indian, Heye Foundation (Publisher)"
+  }, {
+    "label" : "Collection",
+    "value" : "Maps of New York City and State > New York City > New York City & Vicinity >\nIndian paths in the great metropolis"
+  }, {
+    "label" : "Date issued",
+    "value" : "1912 (Inferred)"
+  }, {
+    "label" : "Place",
+    "value" : "New York, N.Y."
+  }, {
+    "label" : "Publisher",
+    "value" : "Museum of the American Indian, Heye Foundation"
+  }, {
+    "label" : "Topics",
+    "value" : "Indian trails -- New York (State) -- New York\nIndians of North America -- New York (State) -- New York\nNew York (N.Y.)"
+  }, {
+    "label" : "Shelf locator",
+    "value" : "Map Div. 19-4468"
+  }, {
+    "label" : "RLIN/OCLC",
+    "value" : "1131723358"
+  }, {
+    "label" : "NYPL catalog ID (B-number)",
+    "value" : "b22042788"
+  }, {
+    "label" : "Universal Unique Identifier (UUID)",
+    "value" : "ed28f370-d03a-0138-53c4-6b5a86a9a040"
+  }, {
+    "label" : "Image ID",
+    "value" : "58209405"
+  }, {
+    "label" : "Rights statement",
+    "value" : "The New York Public Library believes that this item is in the public domain under the laws of the United States, but did not make a determination as to its copyright status under the copyright laws of other countries. This item may not be in the public domain under the laws of other countries. Though not required, if you want to credit us as the source, please use the following statement, \"From The New York Public Library,\" and provide a link back to the item on our Digital Collections site. Doing so helps us track how our collection is used and helps justify freely releasing even more content in the future."
+  } ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "New York Public Library Digital Collections",
+  "sequences" : [ {
+    "@id" : "http://968e410d-6a10-4ab9-beba-8744d8a6ad20",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://72d40cae-7d16-4878-a965-5bf7cea24d27",
+      "@type" : "sc:Canvas",
+      "label" : "Greater New York and contigous territory, showing the Indian paths, together with the approximate situation of all known Indian stations, Map I",
+      "height" : 11605,
+      "width" : 8706,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e54002f7-f4b7-4630-8631-c127d2f4e7c4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://cornell-colab.github.io/hist2391/images/nypl-greaterny/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/nypl-greaterny",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 11605,
+          "width" : 8706
+        },
+        "on" : "http://72d40cae-7d16-4878-a965-5bf7cea24d27"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

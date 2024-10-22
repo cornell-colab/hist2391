@@ -1,0 +1,91 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://cornell-colab.github.io/hist2391/manifests/nypl-nova-suecia.json",
+  "@type" : "sc:Manifest",
+  "label" : "Nova Suecia, eller the Swenska Revier [now Delaware River] in India Occidentalis",
+  "metadata" : [ {
+    "label" : "Names",
+    "value" : "Lindeström, Peter Mårtensson, 1632-1691 (Cartographer)\nL.H. Everts & Co. (Publisher)"
+  }, {
+    "label" : "Collection",
+    "value" : "Maps of North America > Countries > United States (except New York) > States > Delaware"
+  }, {
+    "label" : "Date created",
+    "value" : "1655"
+  }, {
+    "label" : "Date issued",
+    "value" : "1884"
+  }, {
+    "label" : "Place",
+    "value" : "Philadelphia"
+  }, {
+    "label" : "Publisher",
+    "value" : "L.H. Everts & Co."
+  }, {
+    "label" : "Shelf locator",
+    "value" : "Map Div. 09-1205"
+  }, {
+    "label" : "Topics",
+    "value" : "Delaware River (N.Y.-Del. and N.J.) -- Maps -- Early works to 1800 -- Facsimiles\nDelaware -- Maps -- Early works to 1800 -- Facsimiles\nPennsylvania -- Maps -- Early works to 1800 -- Facsimiles\nNew Jersey -- Maps -- Early works to 1800 -- Facsimiles\nNew Sweden -- Maps -- Early works to 1800 -- Facsimiles"
+  }, {
+    "label" : "Notes",
+    "value" : "Content: Covers Delaware River area south of Trenton, N.J.\nContent: Facsimile.\nContent: In Swedish, some place names also in English.\nContent: Includes ill.\nContent: Index in lower margin.\nContent: Oriented with north toward the right.\nCitation/reference: Appears in: History of Philadelphia, 1609-1884 / J. Thomas Scharf & Thompson Westcott. Philadelphia: L.H. Everts & Co., 1884. v. 1 p. 71.\nStatement of responsibility: drawn by Peter Lindstrom, Royal Swedish Engineer 1654 & 1655."
+  }, {
+    "label" : "RLIN/OCLC",
+    "value" : "62886173"
+  }, {
+    "label" : "Barcode",
+    "value" : " 33433079225557"
+  }, {
+    "label" : "NYPL catalog ID (B-number)",
+    "value" : "b10003109"
+  }, {
+    "label" : "Universal Unique Identifier (UUID)",
+    "value" : "457c3210-c52b-012f-a679-3c075448cc4b"
+  }, {
+    "label" : "Rights statement",
+    "value" : "The New York Public Library believes that this item is in the public domain under the laws of the United States, but did not make a determination as to its copyright status under the copyright laws of other countries. This item may not be in the public domain under the laws of other countries. Though not required, if you want to credit us as the source, please use the following statement, \"From The New York Public Library,\" and provide a link back to the item on our Digital Collections site. Doing so helps us track how our collection is used and helps justify freely releasing even more content in the future."
+  } ],
+  "description" : [ {
+    "@value" : "Additional title: History of Philadelphia, 1609-1884.; Additional title: Nova Svecia, eller the Swenska Revier [now Delaware River] in India Occicentalis; Extent: 1 map ; 11 x 53 cm.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "New York Public Library Digital Collections",
+  "sequences" : [ {
+    "@id" : "http://1886bf86-bf89-44d2-9a6e-ac20b44e5a99",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://3b3f2591-79de-496a-9a8f-ec0e6ecbb1a3",
+      "@type" : "sc:Canvas",
+      "label" : "Nova Suecia, eller the Swenska Revier [now Delaware River] in India Occidentalis",
+      "height" : 2792,
+      "width" : 7218,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4e1739f9-641e-4910-8e08-1c04a1373e32",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://cornell-colab.github.io/hist2391/images/nypl-nova-suecia/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/nypl-nova-suecia",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2792,
+          "width" : 7218
+        },
+        "on" : "http://3b3f2591-79de-496a-9a8f-ec0e6ecbb1a3"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

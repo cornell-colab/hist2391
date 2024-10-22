@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 162,
+    "height" : 104
+  }, {
+    "width" : 323,
+    "height" : 207
+  }, {
+    "width" : 645,
+    "height" : 414
+  }, {
+    "width" : 1289,
+    "height" : 827
+  }, {
+    "width" : 2578,
+    "height" : 1653
+  }, {
+    "width" : 5156,
+    "height" : 3306
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 5156,
+  "@id" : "http://cornell-colab.github.io/hist2391/images/tonawanda-indian-reservation",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3306
+}

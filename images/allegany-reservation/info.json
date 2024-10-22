@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 161,
+    "height" : 104
+  }, {
+    "width" : 322,
+    "height" : 208
+  }, {
+    "width" : 644,
+    "height" : 415
+  }, {
+    "width" : 1288,
+    "height" : 829
+  }, {
+    "width" : 2576,
+    "height" : 1658
+  }, {
+    "width" : 5152,
+    "height" : 3316
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 5152,
+  "@id" : "http://localhost:8887/iiif/allegany-reservation",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3316
+}

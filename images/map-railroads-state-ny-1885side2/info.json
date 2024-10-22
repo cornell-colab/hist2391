@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 220,
+    "height" : 342
+  }, {
+    "width" : 440,
+    "height" : 684
+  }, {
+    "width" : 880,
+    "height" : 1368
+  }, {
+    "width" : 1759,
+    "height" : 2736
+  }, {
+    "width" : 3518,
+    "height" : 5471
+  }, {
+    "width" : 7036,
+    "height" : 10942
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 7036,
+  "@id" : "https://cornell-colab.github.io/hist2391/images/map-railroads-state-ny-1885side2",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 10942
+}

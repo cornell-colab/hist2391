@@ -1,0 +1,91 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://kam535.github.io/test/manifests/nypl-nova-svecia.json",
+  "@type" : "sc:Manifest",
+  "label" : "Nova Svecia",
+  "metadata" : [ {
+    "label" : "Image ID",
+    "value" : "433864"
+  }, {
+    "label" : "Names",
+    "value" : "Luther, Martin, 1483-1546 (Author)\nCampanius Holm, Johan, 1601-1683 (Engraver)"
+  }, {
+    "label" : "Collections",
+    "value" : "Lawrence H. Slaughter Collection of English maps, charts, globes, books and atlases > Atlases > Lutheri Catechismus"
+  }, {
+    "label" : "Date issued",
+    "value" : "1696"
+  }, {
+    "label" : "Place",
+    "value" : "Stockholm"
+  }, {
+    "label" : "Shelf locator",
+    "value" : "Map Div. 97-6229 (Map [1], frontispiece) [In LHS 3053]"
+  }, {
+    "label" : "Topics",
+    "value" : "Delaware River (N.Y.-Del. and N.J.) > New Jersey > New Sweden > Delaware > Delaware Bay (Del. and N.J.)"
+  }, {
+    "label" : "Notes",
+    "value" : "Ownership: Lawrence H. Slaughter Collection ; 181.\nStatement of responsibility: Th. Companius Holm fecit."
+  }, {
+    "label" : "RLIN/OCLC",
+    "value" : "10041437"
+  }, {
+    "label" : "NYPL catalog ID (B-number)",
+    "value" : "b14335786"
+  }, {
+    "label" : "RLIN/OCLC",
+    "value" : "49346524"
+  }, {
+    "label" : "NYPL catalog ID (B-number)",
+    "value" : "b15366623"
+  }, {
+    "label" : "Universal Unique Identifier (UUID)",
+    "value" : "795c9890-c5d3-012f-e6d7-58d385a7bc34"
+  }, {
+    "label" : "Rights statement",
+    "value" : "The New York Public Library believes that this item is in the public domain under the laws of the United States, but did not make a determination as to its copyright status under the copyright laws of other countries. This item may not be in the public domain under the laws of other countries. Though not required, if you want to credit us as the source, please use the following statement, \"From The New York Public Library,\" and provide a link back to the item on our Digital Collections site. Doing so helps us track how our collection is used and helps justify freely releasing even more content in the future."
+  } ],
+  "description" : [ {
+    "@value" : "Shows the Swedish settlements on the Delaware River. \"N\" in Nova of title printed backwards. Oriented with north to the lower right. \"Anno 1654 och 1655, Är denna Novae Sveciae carta med dess riviers och landz situation ock beskaffenhet aftagen och till carts förd af P. Lindström, ingin fortif.\" Includes ill., and coat of arms.; Extent: 1 map ; 27 x 12 cm. folded to 17 x 9 cm.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "New York Public Library Digital Collections",
+  "sequences" : [ {
+    "@id" : "http://17af69f2-e8df-4452-bf0a-a65499ef6057",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://1e1bdb53-1955-48b3-9ef2-4f73c2097295",
+      "@type" : "sc:Canvas",
+      "label" : "Nova Svecia",
+      "height" : 3349,
+      "width" : 2331,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5d0befaa-efb5-4b56-bfff-5945bb4e2c18",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://cornell-colab.github.io/hist2391/images/nypl-nova-svecia/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/nypl-nova-svecia",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3349,
+          "width" : 2331
+        },
+        "on" : "http://1e1bdb53-1955-48b3-9ef2-4f73c2097295"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

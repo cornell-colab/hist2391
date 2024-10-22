@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 73,
+    "height" : 105
+  }, {
+    "width" : 146,
+    "height" : 210
+  }, {
+    "width" : 292,
+    "height" : 419
+  }, {
+    "width" : 583,
+    "height" : 838
+  }, {
+    "width" : 1166,
+    "height" : 1675
+  }, {
+    "width" : 2331,
+    "height" : 3349
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2331,
+  "@id" : "http://localhost:8887/iiif/svecia",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3349
+}

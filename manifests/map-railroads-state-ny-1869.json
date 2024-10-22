@@ -1,0 +1,64 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://cornell-colab.github.io/hist2391/manifests/map-railroads-state-ny-1869.json",
+  "@type" : "sc:Manifest",
+  "label" : "Map of the railroads of the State of New York",
+  "metadata" : [ {
+    "label" : "Author",
+    "value" : "\nRichmond, Van Rensselaer, 1814?- cartographer"
+  }, {
+    "label" : "Published",
+    "value" : "Albany, 1869."
+  }, {
+    "label" : "Subject",
+    "value" : "Railroads > New York (State) > Maps."
+  }, {
+    "label" : "Format",
+    "value" : "\nScale not given."
+  }, {
+    "label" : "Record number",
+    "value" : "G3801.P3 1869 .R5"
+  } ],
+  "description" : [ {
+    "@value" : "to accompany the report of the State Board of Rail Road Commissioners; \n1 map ; 86 x 110 cm. fold. in cover 17 x 11 cm.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Cornell University Library",
+  "sequences" : [ {
+    "@id" : "http://83b88900-f070-45a3-81c6-c71e32ae2d5f",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://49c29138-f46b-4719-9792-52aed9906f83",
+      "@type" : "sc:Canvas",
+      "label" : "Map of the railroads of the State of New York",
+      "height" : 7632,
+      "width" : 9440,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2e3260c3-17ae-4ee0-b881-460419ea1e61",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://cornell-colab.github.io/hist2391/images/map-railroads-state-ny-1869/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/map-railroads-state-ny-1869",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 7632,
+          "width" : 9440
+        },
+        "on" : "http://49c29138-f46b-4719-9792-52aed9906f83"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

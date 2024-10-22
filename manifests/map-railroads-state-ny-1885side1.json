@@ -1,0 +1,64 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://cornell-colab.github.io/hist2391/manifests/map-railroads-state-ny-1885side1.json",
+  "@type" : "sc:Manifest",
+  "label" : "Railroads of the State of New York",
+  "metadata" : [ {
+    "label" : "Notes",
+    "value" : "\nCover title: Map of the State of New York accompanying the Legislative Manual, 1885."
+  }, {
+    "label" : "Contributor",
+    "value" : "New York (State) Board of Railroad Commissioners."
+  }, {
+    "label" : "Subject",
+    "value" : "Railroads > New York (State) > Maps."
+  }, {
+    "label" : "Published",
+    "value" : "Albany : Weed, Parsons & Co., 1885."
+  }, {
+    "label" : "Record number",
+    "value" : "G3801.P3 1885 .R3"
+  } ],
+  "description" : [ {
+    "@value" : "to accompany the report of the State Board of Rail Road Commissioners; \n1 map ; 86 x 110 cm. fold. in cover 17 x 11 cm.; side 1 of 2",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Cornell University Library",
+  "sequences" : [ {
+    "@id" : "http://beec863f-71cb-4e7e-a420-fba3b2b4e270",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://aa1daa9c-624a-45ff-b761-cdcd43668485",
+      "@type" : "sc:Canvas",
+      "label" : "Railroads of the State of New York",
+      "height" : 11037,
+      "width" : 7064,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://79ffca2d-c04f-4359-b38f-e900793adf77",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://cornell-colab.github.io/hist2391/images/map-railroads-state-ny-1885side1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/map-railroads-state-ny-1885side1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 11037,
+          "width" : 7064
+        },
+        "on" : "http://aa1daa9c-624a-45ff-b761-cdcd43668485"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

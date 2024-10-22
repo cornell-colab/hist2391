@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 162,
+    "height" : 104
+  }, {
+    "width" : 324,
+    "height" : 208
+  }, {
+    "width" : 647,
+    "height" : 416
+  }, {
+    "width" : 1293,
+    "height" : 831
+  }, {
+    "width" : 2586,
+    "height" : 1662
+  }, {
+    "width" : 5172,
+    "height" : 3324
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 5172,
+  "@id" : "https://cornell-colab.github.io/hist2391/images/cattaraugus-reservation",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3324
+}

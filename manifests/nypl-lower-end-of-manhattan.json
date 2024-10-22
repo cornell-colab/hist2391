@@ -1,0 +1,116 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://923a57b2-da75-4812-8010-270f20371bb3",
+	"@type": "sc:Manifest",
+	"label": "The lower end of Manhattan Island, as far north as Central Park, also the East River shorefront of Brooklyn, Williamsburg, and Greenpoint, and the New Jersey shoreline of Jersey City and Hoboken, Map VIII A",
+	"metadata": [
+		{
+			"label": "Names",
+			"value": "A.R. Ohman Map Co. (Creator)\nBolton, Reginald Pelham, 1856-1942 (Creator)\nOhman, August R. (Creator)\nMuseum of the American Indian, Heye Foundation (Publisher)"
+		},
+		{
+			"label": "Collection",
+			"value": "Maps of New York City and State > New York City > New York City &amp; Vicinity > Indian paths in the great metropolis"
+		},
+		{
+			"label": "Date issued",
+			"value": "1912 (Inferred)"
+		},
+		{
+			"label": "Place",
+			"value": "New York, N.Y."
+		},
+		{
+			"label": "Publisher",
+			"value": "Museum of the American Indian, Heye Foundation"
+		},
+		{
+			"label": "Label",
+			"value": "Value"
+		},
+		{
+			"label": "Shelf locator",
+			"value": "Map Div. 19-4468"
+		},
+		{
+			"label": "Label",
+			"value": "Value"
+		},
+		{
+			"label": "Topics",
+			"value": "Indian trails -- New York (State) -- New York\nIndians of North America -- New York (State) -- New York\nNew York (N.Y.)\nManhattan (New York, N.Y.)\nBrooklyn (New York, N.Y.)\nNew Jersey"
+		},
+		{
+			"label": "RLIN/OCLC",
+			"value": "1131723358"
+		},
+		{
+			"label": "NYPL catalog ID (B-number): ",
+			"value": "b22042788"
+		},
+		{
+			"label": "Universal Unique Identifier (UUID): ",
+			"value": "a9cd9dc0-d03c-0138-31aa-5d78585db07a"
+		},
+		{
+			"label": "Rights statement",
+			"value": "The New York Public Library believes that this item is in the public domain under the laws of the United States, but did not make a determination as to its copyright status under the copyright laws of other countries. This item may not be in the public domain under the laws of other countries. Though not required, if you want to credit us as the source, please use the following statement, \"From The New York Public Library,\" and provide a link back to the item on our Digital Collections site. Doing so helps us track how our collection is used and helps justify freely releasing even more content in the future."
+		},
+		{
+			"label": "Image ID",
+			"value": "58209413"
+		}
+	],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "New York Public Library Digital Collections",
+	"sequences": [
+		{
+			"@id": "http://cd513237-ac40-4527-9f7a-97552f90fe4b",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://7960107e-ece5-463b-8835-663be42682af",
+					"@type": "sc:Canvas",
+					"label": "The lower end of Manhattan Island, as far north as Central Park, also the East River shorefront of Brooklyn, Williamsburg, and Greenpoint, and the New Jersey shoreline of Jersey City and Hoboken, Map VIII A",
+					"height": 11605,
+					"width": 8706,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://e02655dd-d112-49a7-9df3-77e6bf4c47ba",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cornell-colab.github.io/hist2391/images/nypl-lowerendofmanhattan/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cornell-colab.github.io/hist2391/images/nypl-lowerendofmanhattan",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 11605,
+								"width": 8706
+							},
+							"on": "http://7960107e-ece5-463b-8835-663be42682af"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}

@@ -1,0 +1,70 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://colab-cornell.github.io/hist2391/manifests/cattaraugus-reservation.json",
+  "@type" : "sc:Manifest",
+  "label" : "Cattaraugus Reservation of the Seneca Nation ... 1890",
+  "metadata" : [ {
+    "label" : "Published",
+    "value" : "Washington, D.C. : G.P.O., 1894."
+  }, {
+    "label" : "Author",
+    "value" : "\nUnited States. Census Office. "
+  }, {
+    "label" : "Subjects",
+    "value" : "Indians of North America > New York (State) > Maps.\nUnited States > Census, 11th, 1890 > Maps."
+  }, {
+    "label" : "Related work",
+    "value" : "Census of the United States (1890). Indians."
+  }, {
+    "label" : "Notes",
+    "value" : "Relief shown by hachures on some maps.\nTitle supplied by cataloger.\nXerographic copies.\nReproduced from Report on Indians taxed and Indians not taxed in the United States (except Alaska) at the eleventh census: 1890. Washington, D.C. : G.P.O., 1894.\nPhotocopy. Ithaca, N.Y. : Cornell University Library, 2001."
+  }, {
+    "label" : "Format",
+    "value" : "Scales vary."
+  }, {
+    "label" : "Record number",
+    "value" : "G3801.E1 1890 U5"
+  } ],
+  "description" : [ {
+    "@value" : "Part of series [Indians, the Six Nations of New York, maps.], no. 5; [1 of] 9 maps : photocopies ; 24 x 38 cm. or smaller.; series other titles: Six Nations of New York, maps\nTitle in upper margin of maps: Eleventh census of the United States, Indians",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Cornell University Library",
+  "sequences" : [ {
+    "@id" : "http://b85d282e-0e94-4b08-9252-1bdbfafaaab4",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://418ca2e9-24d2-43f6-b39b-20285da6ec24",
+      "@type" : "sc:Canvas",
+      "label" : "Cattaraugus Reservation of the Seneca Nation ... 1890",
+      "height" : 3324,
+      "width" : 5172,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://76ecdf27-9977-40eb-8816-0a93f2097b57",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://cornell-colab.github.io/hist2391/images/cattaraugus-reservation/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/cattaraugus-reservation",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3324,
+          "width" : 5172
+        },
+        "on" : "http://418ca2e9-24d2-43f6-b39b-20285da6ec24"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

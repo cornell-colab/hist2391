@@ -1,1 +1,32 @@
-
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 273,
+    "height" : 363
+  }, {
+    "width" : 545,
+    "height" : 726
+  }, {
+    "width" : 1089,
+    "height" : 1451
+  }, {
+    "width" : 2177,
+    "height" : 2902
+  }, {
+    "width" : 4353,
+    "height" : 5803
+  }, {
+    "width" : 8706,
+    "height" : 11605
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 8706,
+  "@id" : "http://localhost:8887/iiif/greaterny",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 11605
+}

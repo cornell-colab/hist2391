@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 9440,
-  "@id" : "https://cornell-colab.github.so/hist2391/images/map-railroads-state-ny-1869",
+  "@id" : "https://cornell-colab.github.io/hist2391/images/map-railroads-state-ny-1869",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 7632
 }

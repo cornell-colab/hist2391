@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 226,
+    "height" : 88
+  }, {
+    "width" : 452,
+    "height" : 175
+  }, {
+    "width" : 903,
+    "height" : 349
+  }, {
+    "width" : 1805,
+    "height" : 698
+  }, {
+    "width" : 3609,
+    "height" : 1396
+  }, {
+    "width" : 7218,
+    "height" : 2792
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 7218,
+  "@id" : "http://cornell-colab.github.io/hist2391/images/nypl-nova-suecia",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2792
+}

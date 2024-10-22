@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://923a57b2-da75-4812-8010-270f20371bb3",
+	"@id": "https://cornell-colab.github.io/hist2391/images/nypl-lowerendofmanhattan.json",
 	"@type": "sc:Manifest",
 	"label": "The lower end of Manhattan Island, as far north as Central Park, also the East River shorefront of Brooklyn, Williamsburg, and Greenpoint, and the New Jersey shoreline of Jersey City and Hoboken, Map VIII A",
 	"metadata": [

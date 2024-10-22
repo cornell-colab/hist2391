@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://cornell-colab.github.io/hist2391/manifests/nypl-lower-end-of-manhattan.json",
   "@type" : "sc:Manifest",
-  "label" : "The lower end of Manhattan Island, as far north as Central Park, also the East River shorefront of Brooklyn, Williamsburg, and Greenpoint, and the New Jersey shoreline of Jersey City and Hoboken, Map VIII A",
+  "label" : "The lower end of Manhattan Island",
   "metadata" : [ {
     "label" : "Names",
     "value" : "A.R. Ohman Map Co. (Creator)\nBolton, Reginald Pelham, 1856-1942 (Creator)\nOhman, August R. (Creator)\nMuseum of the American Indian, Heye Foundation (Publisher)"
@@ -47,7 +47,7 @@
     "value" : "58209413"
   } ],
   "description" : [ {
-    "@value" : "[Click to edit description]",
+    "@value" : "as far north as Central Park, also the East River shorefront of Brooklyn, Williamsburg, and Greenpoint, and the New Jersey shoreline of Jersey City and Hoboken, Map VIII A",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",

@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 162,
+    "height" : 104
+  }, {
+    "width" : 323,
+    "height" : 208
+  }, {
+    "width" : 646,
+    "height" : 416
+  }, {
+    "width" : 1292,
+    "height" : 832
+  }, {
+    "width" : 2584,
+    "height" : 1664
+  }, {
+    "width" : 5168,
+    "height" : 3328
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 5168,
+  "@id" : "https://cornell-colab.github.io/hist2391/images/six-nations-outline-map",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3328
+}

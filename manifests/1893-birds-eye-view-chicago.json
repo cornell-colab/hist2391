@@ -1,0 +1,67 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://cornell-colab.github.io/hist2391/manifests/1893-birds-eye-view-chicago.json",
+  "@type" : "sc:Manifest",
+  "label" : "Bird's eye view of Chicago, 1893",
+  "metadata" : [ {
+    "label" : "Author",
+    "value" : "\nRoy, Peter. "
+  }, {
+    "label" : "Published",
+    "value" : "Chicago, Ill. : P. Roy, c1892."
+  }, {
+    "label" : "Subjects",
+    "value" : "Chicago (Ill.) > Aerial views."
+  }, {
+    "label" : "Map format",
+    "value" : "Not drawn to scale."
+  }, {
+    "label" : "Notes",
+    "value" : "\"Copyright, 1892, by Peter Roy ...\"\nAvailable also through the Library of Congress Web site as a raster image.\nIncludes index and inset of \"View of Chicago in 1832.\"\nIndexed \"Map of the buildings and grounds of the World's Columbian Exposition at Jackson Park and Midway Plaisance, Chicago, Ill., U.S.A. 1893\" and ill. on verso."
+  }, {
+    "label" : "Record number",
+    "value" : "G4104.C6 1893 .R6"
+  } ],
+  "description" : [ {
+    "@value" : "1 view : col. ; 37 x 76 cm. This is the verso, see the recto in the catalogue.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Cornell University Library",
+  "sequences" : [ {
+    "@id" : "http://69bc2130-ac11-49be-b75c-c61e6dee9bc7",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://f101a5ba-9aa6-4043-b696-64215a2ab366",
+      "@type" : "sc:Canvas",
+      "label" : "Bird's eye view of Chicago, 1893",
+      "height" : 4479,
+      "width" : 9068,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4e5ccd35-01da-45d5-8516-635f883bf83e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C61893R6/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C61893R6",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4479,
+          "width" : 9068
+        },
+        "on" : "http://f101a5ba-9aa6-4043-b696-64215a2ab366"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

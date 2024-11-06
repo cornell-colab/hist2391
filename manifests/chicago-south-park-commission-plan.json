@@ -1,0 +1,67 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://cornell-colab.github.io/test/manifests/chicago-south-park-commission-plan.json",
+  "@type" : "sc:Manifest",
+  "label" : "Chicago South Park Commission plan of the South Open Ground, the Upper Plaisance, the Midway Plaisance, the Lake Open Ground, the Lagoon Plaisance and the Parkway Quadrant",
+  "metadata" : [ {
+    "label" : "Author",
+    "value" : "\nSouth Park Commission (Chicago, Ill.)"
+  }, {
+    "label" : "Published",
+    "value" : "Chicago : The Commission, 1871."
+  }, {
+    "label" : "Subject",
+    "value" : "Parks > Illinois > Chicago > Maps.\nChicago (Ill.) > Maps."
+  }, {
+    "label" : "Format",
+    "value" : "Scale indeterminable."
+  }, {
+    "label" : "Notes",
+    "value" : "Negative photostat. Oriented with north to the left. Includes table of areas and distances."
+  }, {
+    "label" : "Record number",
+    "value" : "G4104.C6 G52 1871 C4"
+  } ],
+  "description" : [ {
+    "@value" : "as proposed to be laid out by Olmsted, Vaux & Co. landscape architects; 1 map : photocopy ; 45 x 35 cm.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Cornell University Library",
+  "sequences" : [ {
+    "@id" : "http://96fc23ef-e42a-4316-800b-56b14adb66c5",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://dcab08c6-ed38-4a7c-a4ed-bb2ee8cfdc6f",
+      "@type" : "sc:Canvas",
+      "label" : "Chicago South Park Commission plan of the South Open Ground, the Upper Plaisance, the Midway Plaisance, the Lake Open Ground, the Lagoon Plaisance and the Parkway Quadrant",
+      "height" : 5320,
+      "width" : 4116,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0be230e7-1d42-4e19-9c78-b91693ef1a38",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C6G521871C4/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C6G521871C4",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5320,
+          "width" : 4116
+        },
+        "on" : "http://dcab08c6-ed38-4a7c-a4ed-bb2ee8cfdc6f"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

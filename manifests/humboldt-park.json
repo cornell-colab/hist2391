@@ -1,6 +1,6 @@
 {
   "@context" : "http://iiif.io/api/presentation/2/context.json",
-  "@id" : "https://cornell-colab.github.io/test/manifests/humboldt-park.json",
+  "@id" : "https://cornell-colab.github.io/hist2391/manifests/humboldt-park.json",
   "@type" : "sc:Manifest",
   "label" : "Humboldt Park, West Chicago, Illinois",
   "metadata" : [ {

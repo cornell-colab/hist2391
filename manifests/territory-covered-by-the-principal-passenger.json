@@ -1,0 +1,67 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://cornell-colab.github.io/test/manifests/territory-covered-by-the-principal-passenger.json",
+  "@type" : "sc:Manifest",
+  "label" : "Territory covered by the principal passenger associations of the United States",
+  "metadata" : [ {
+    "label" : "Published",
+    "value" : "Boston, Mass. : [s.n.], c1899."
+  }, {
+    "label" : "Subject",
+    "value" : "Railroads > Passenger traffic > Maps.\nUnited States > Maps"
+  }, {
+    "label" : "Contributor",
+    "value" : "Weeks, N. E."
+  }, {
+    "label" : "Related work",
+    "value" : "Passenger Associations of the United States."
+  }, {
+    "label" : "Format",
+    "value" : "Scale not given."
+  }, {
+    "label" : "Record number",
+    "value" : "G3701.P3 1899 W4"
+  } ],
+  "description" : [ {
+    "@value" : "\"by N.E. Weeks.\"; 1 map : col. ; 25 x 42 cm.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Cornell University Library",
+  "sequences" : [ {
+    "@id" : "http://6282b2f6-eebc-4fcd-8fb4-f8cae1358abf",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://12cef532-5598-469b-b47a-09309eed8ecd",
+      "@type" : "sc:Canvas",
+      "label" : "Territory covered by the principal passenger associations of the United States",
+      "height" : 3383,
+      "width" : 5488,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3e678b09-ded8-4ca9-a160-6c0c600505d9",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://cornell-colab.github.io/hist2391/images/G3701P31899W4/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G3701P31899W4",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3383,
+          "width" : 5488
+        },
+        "on" : "http://12cef532-5598-469b-b47a-09309eed8ecd"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://cornell-colab.github.io/test/manifests/rand-mcnally-new-indexed-standard-worlds-columbian.json",
+  "@type" : "sc:Manifest",
+  "label" : "Rand, McNally and Co.'s new indexed standard guide map of the World's Columbian Exposition, Chicago, 1893",
+  "metadata" : [ {
+    "label" : "Record number",
+    "value" : "G4104.C6 1893 .R3"
+  }, {
+    "label" : "Published",
+    "value" : "Chicago : The Company, c1893."
+  }, {
+    "label" : "Subject",
+    "value" : "World's Columbian Exposition.\nChicago (Ill.) > Maps.\nExhibitions > Illinois > Chicago > Maps."
+  }, {
+    "label" : "Contributor",
+    "value" : "Rand McNally and Company."
+  }, {
+    "label" : "Related work",
+    "value" : "New indexed standard guide map of the World's Columbian Exposition, Chicago, 1893."
+  }, {
+    "label" : "Format",
+    "value" : "Scale 1:7,320 or 610 feet to 1 inch."
+  }, {
+    "label" : "Notes",
+    "value" : "Includes index to buildings and points of interest."
+  } ],
+  "description" : [ {
+    "@value" : "\"[by] Rand, McNally and Co.\"; 1 map : col. ; 33 x 46 cm., folded to 13 x 10 cm.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Cornell University Library",
+  "sequences" : [ {
+    "@id" : "http://98df7879-b7e8-4c18-932d-7bd712fd9291",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://f9edfc64-7834-489d-b6c5-e5c598253e22",
+      "@type" : "sc:Canvas",
+      "label" : "Rand, McNally and Co.'s new indexed standard guide map of the World's Columbian Exposition, Chicago, 1893",
+      "height" : 4949,
+      "width" : 5460,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4bd0a712-5f0a-4132-982a-38cb38780bf3",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C61893R3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C61893R3",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4949,
+          "width" : 5460
+        },
+        "on" : "http://f9edfc64-7834-489d-b6c5-e5c598253e22"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

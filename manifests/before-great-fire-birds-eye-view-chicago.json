@@ -1,0 +1,70 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://cornell-colab.github.io/hist2391/manifests/before-great-fire-birds-eye-view-chicago.json",
+  "@type" : "sc:Manifest",
+  "label" : "Bird's-eye view of Chicago as it was before the great fire",
+  "metadata" : [ {
+    "label" : "Author",
+    "value" : "\nDavis, Theodore R."
+  }, {
+    "label" : "Published",
+    "value" : "\n[New York, Harper, 1871] Ithaca, N.Y., Historic Urban Plans, 1969."
+  }, {
+    "label" : "Subjects",
+    "value" : "Views > Facsimiles.\nChicago (Ill.) > History > To 1875 > Pictorial works."
+  }, {
+    "label" : "Contributors",
+    "value" : "Harper & Brothers.\nHistoric Urban Plans (Firm)"
+  }, {
+    "label" : "Related work",
+    "value" : "Harper's weekly."
+  }, {
+    "label" : "Notes",
+    "value" : "Facsimile.\nReproduced from Harper's weekly for Oct. 21, 1871.\nIndexed."
+  }, {
+    "label" : "Record number",
+    "value" : "G4104.C6A35 1871a D3"
+  } ],
+  "description" : [ {
+    "@value" : "\"Drawn by Theodore R. Davis.\"; view 34 x 53 cm.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Cornell University Library",
+  "sequences" : [ {
+    "@id" : "http://33c779e8-cb99-432c-b8c4-680e9c744f33",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://83c8d04a-af7d-4d28-9e78-0af8a8afb979",
+      "@type" : "sc:Canvas",
+      "label" : "Bird's-eye view of Chicago as it was before the great fire",
+      "height" : 5214,
+      "width" : 6952,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a6f99d44-d63d-47b7-b2c7-35e4eaee92b1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C6A351871aD8/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C6A351871aD8",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5214,
+          "width" : 6952
+        },
+        "on" : "http://83c8d04a-af7d-4d28-9e78-0af8a8afb979"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

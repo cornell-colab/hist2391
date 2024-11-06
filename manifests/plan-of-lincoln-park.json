@@ -1,0 +1,67 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://cornell-colab.github.io/test/manifests/plan-of-lincoln-park.json",
+  "@type" : "sc:Manifest",
+  "label" : "Plan of Lincoln Park and boulevards 1887",
+  "metadata" : [ {
+    "label" : "Record number",
+    "value" : "G4104.C6:2L44 1887 P5"
+  }, {
+    "label" : "Published",
+    "value" : "\n[S.l. : s.n., 1887?]"
+  }, {
+    "label" : "Subject",
+    "value" : "Lincoln Park (Chicago, Ill.) > Maps."
+  }, {
+    "label" : "Contributor",
+    "value" : "Chicago Historical Society."
+  }, {
+    "label" : "Format",
+    "value" : "Scale not given."
+  }, {
+    "label" : "Notes",
+    "value" : "Negative photocopy.\nScale of original: [1:3,600]. 300 ft. = 1 in.\nOriented with north to the left.\nFrom the Chicago Historical Society.\nIndexed for points of interest."
+  } ],
+  "description" : [ {
+    "@value" : "[Chicago]; 1 map : photocopy ; 24 x 39 cm.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Cornell University",
+  "sequences" : [ {
+    "@id" : "http://cdc9443b-0f49-46b8-b76f-aab88a9c19e8",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://d1102a53-23df-447b-9a9a-64c2e344f811",
+      "@type" : "sc:Canvas",
+      "label" : "Plan of Lincoln Park and boulevards 1887",
+      "height" : 3207,
+      "width" : 5056,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f42ed1b1-7762-4cdb-a4c4-f9c940801471",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C6L441887P5/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C6L441887P5",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3207,
+          "width" : 5056
+        },
+        "on" : "http://d1102a53-23df-447b-9a9a-64c2e344f811"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

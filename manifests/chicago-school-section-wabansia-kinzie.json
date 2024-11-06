@@ -1,0 +1,64 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://cornell-colab.github.io/hist2391/manifests/chicago-school-section-wabansia-kinzie.json",
+  "@type" : "sc:Manifest",
+  "label" : "Chicago with the School section, Wabansia, and Kinzie's addition",
+  "metadata" : [ {
+    "label" : "Author",
+    "value" : "Hathaway, Joshua."
+  }, {
+    "label" : "Published",
+    "value" : "Chicago : William Blair & Company, [ca. 1967]."
+  }, {
+    "label" : "Subjects",
+    "value" : "\nChicago (Ill.) > Maps."
+  }, {
+    "label" : "Notes",
+    "value" : "Alternate title: Chicago 1834.\nFacsimile published \"through the courtesy of the Chicago Historical Society.\""
+  }, {
+    "label" : "Record number",
+    "value" : "G4104.C6 1834 H3 1967"
+  } ],
+  "description" : [ {
+    "@value" : "\"compiled from the four original surveys as filed in the Cook County Clerk's office by Joshua Hathaway Jr.\"; 1 map : col. ; 55 x 39 cm. ",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Cornell University Library",
+  "sequences" : [ {
+    "@id" : "http://532873f8-2900-426f-8842-3f1757ab5b74",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://4d885d10-b6a4-4a21-8c8a-456b3f768c48",
+      "@type" : "sc:Canvas",
+      "label" : "Chicago with the School section, Wabansia, and Kinzie's addition",
+      "height" : 7460,
+      "width" : 5252,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://929a2778-6e7a-4bc5-90e4-cb484ced6445",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C61834H31967/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C61834H31967",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 7460,
+          "width" : 5252
+        },
+        "on" : "http://4d885d10-b6a4-4a21-8c8a-456b3f768c48"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

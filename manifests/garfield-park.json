@@ -1,0 +1,70 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://cornell-colab.github.io/hist2391/manifests/garfield-park.json",
+  "@type" : "sc:Manifest",
+  "label" : "Garfield Park, West Chicago, Illinois",
+  "metadata" : [ {
+    "label" : "Published",
+    "value" : "Chicago : Rand McNally, [1885?]"
+  }, {
+    "label" : "Subject",
+    "value" : "Garfield Park (Chicago, Ill.) > Maps."
+  }, {
+    "label" : "Contributor",
+    "value" : "Dubuis, O. F."
+  }, {
+    "label" : "Contributor",
+    "value" : "Chicago Historical Society."
+  }, {
+    "label" : "Format",
+    "value" : "Scale not given."
+  }, {
+    "label" : "Notes",
+    "value" : "Negative photocopy. Scale of original: [1:2,400]. 200 ft. = 1 in. Oriented with north to the right. From the Chicago Historical Society."
+  }, {
+    "label" : "Record number",
+    "value" : "G4104.C6:2G3 1885 R3"
+  } ],
+  "description" : [ {
+    "@value" : "map showing progress made in the improvements up to March 1st, 1885; \"O.F. Dubuis, landscape architect.\"; 1 map : photocopy ; 26 x 44 cm.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Cornell University Library",
+  "sequences" : [ {
+    "@id" : "http://391fdf0e-9d9a-4281-bda9-688e538521b8",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://22630b2a-457e-432d-949d-be1d4d7268f8",
+      "@type" : "sc:Canvas",
+      "label" : "Garfield Park, West Chicago, Illinois",
+      "height" : 3109,
+      "width" : 5284,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a7f3fe64-e2de-4d6b-99ea-360bc53d71a2",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C62G31885R3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C62G31885R3",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3109,
+          "width" : 5284
+        },
+        "on" : "http://22630b2a-457e-432d-949d-be1d4d7268f8"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

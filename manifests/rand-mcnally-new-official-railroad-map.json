@@ -1,0 +1,73 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://cornell-colab.github.io/test/manifests/rand-mcnally-new-official-railroad-map.json",
+  "@type" : "sc:Manifest",
+  "label" : "Rand, McNally & Co.'s new official railroad map of the United States and Canada",
+  "metadata" : [ {
+    "label" : "Record number",
+    "value" : "G3701.P3 1885 .R3"
+  }, {
+    "label" : "Author",
+    "value" : "\nRand McNally and Company."
+  }, {
+    "label" : "Published",
+    "value" : "Chicago : Rand, McNally & Co., c1885."
+  }, {
+    "label" : "Subject",
+    "value" : "Railroads > United States > Maps.\nRailroads > Canada > Maps."
+  }, {
+    "label" : "Format",
+    "value" : "\nScale [ca. 1:4,625,000]."
+  }, {
+    "label" : "Notes",
+    "value" : "Relief shown by hachures.\nInsets: Map of Atlantic Coast states engraved on enlarged scale -- Boston -- Cincinnati -- Philadelphia -- New York -- St. Louis -- Chicago -- Buffalo & Niagara Falls -- Washington."
+  }, {
+    "label" : "Alternate title",
+    "value" : "\nNew official railroad map of the United States and Canada"
+  }, {
+    "label" : "Alternate title",
+    "value" : "Official railroad map of the United States and Canada"
+  } ],
+  "description" : [ {
+    "@value" : "\"engraved and printed by Rand, McNally & Co.\"; 1 map : col. ; 69 x 109 cm.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://bf3d9e7d-0622-411e-95f4-bb828fddca40",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://ab182e05-8803-4745-b9f0-5f0aac48c91f",
+      "@type" : "sc:Canvas",
+      "label" : "Rand, McNally & Co.'s new official railroad map of the United States and Canada",
+      "height" : 7402,
+      "width" : 11416,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3834f6f2-5f9d-4c93-a7e3-506de87ad6c5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://cornell-colab.github.io/hist2391/images/G3701P31895R3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G3701P31895R3",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 7402,
+          "width" : 11416
+        },
+        "on" : "http://ab182e05-8803-4745-b9f0-5f0aac48c91f"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

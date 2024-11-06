@@ -1,6 +1,6 @@
 {
   "@context" : "http://iiif.io/api/presentation/2/context.json",
-  "@id" : "https://cornell-colab.github.io/test/manifests/chicago-south-park-commission-plan.json",
+  "@id" : "https://cornell-colab.github.io/hist2391/manifests/chicago-south-park-commission-plan.json",
   "@type" : "sc:Manifest",
   "label" : "Chicago South Park Commission plan of the South Open Ground, the Upper Plaisance, the Midway Plaisance, the Lake Open Ground, the Lagoon Plaisance and the Parkway Quadrant",
   "metadata" : [ {

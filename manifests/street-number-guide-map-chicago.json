@@ -1,0 +1,67 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://cornell-colab.github.io/hist2391/manifests/street-number-guide-map-chicago.json",
+  "@type" : "sc:Manifest",
+  "label" : "Street number guide map of the principal part of Chicago",
+  "metadata" : [ {
+    "label" : "Author",
+    "value" : "\nRand McNally and Company."
+  }, {
+    "label" : "Published",
+    "value" : "Chicago, 1898."
+  }, {
+    "label" : "Subjects",
+    "value" : "Chicago (Ill.) > Maps."
+  }, {
+    "label" : "Map format",
+    "value" : "\nScale [ca. 1:20,000]"
+  }, {
+    "label" : "Notes",
+    "value" : "\n\"This map is reduced from the New Standard Map of Chicago.\""
+  }, {
+    "label" : "Record number",
+    "value" : "G4104.C6 1898 .R3"
+  } ],
+  "description" : [ {
+    "@value" : "col. map 67 x 48 cm.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Cornell University Library",
+  "sequences" : [ {
+    "@id" : "http://01f844fa-b1ea-46df-b322-58bbc1159aba",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://0e05bb79-e4be-4575-b2c0-5a62e83faeaa",
+      "@type" : "sc:Canvas",
+      "label" : "Street number guide map of the principal part of Chicago",
+      "height" : 8420,
+      "width" : 6324,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2ebd144a-bde3-42d5-bf4e-c90d97812905",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C61898R3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C61898R3",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 8420,
+          "width" : 6324
+        },
+        "on" : "http://0e05bb79-e4be-4575-b2c0-5a62e83faeaa"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

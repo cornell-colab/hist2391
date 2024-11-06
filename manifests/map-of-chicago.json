@@ -1,0 +1,67 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://cornell-colab.github.io/hist2391/manifests/map-of-chicago.json",
+  "@type" : "sc:Manifest",
+  "label" : "Map of Chicago",
+  "metadata" : [ {
+    "label" : "Published",
+    "value" : "\n[Chicago] : Rufus Blanchard, 1857."
+  }, {
+    "label" : "Author",
+    "value" : "\nBlanchard, Rufus, 1821-1904."
+  }, {
+    "label" : "Subjects",
+    "value" : "Chicago (Ill.) > Maps.\n"
+  }, {
+    "label" : "Map format",
+    "value" : "Scale not indicated."
+  }, {
+    "label" : "Notes",
+    "value" : "\nIncludes map \"Chicago in 1812.\""
+  }, {
+    "label" : "Record number",
+    "value" : "G4104.C6 1857 B5"
+  } ],
+  "description" : [ {
+    "@value" : "\"Rufus Blanchard.\"; 1 map : hand col. ; 76 x 59 cm.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Cornell University Library",
+  "sequences" : [ {
+    "@id" : "http://3adb3399-4fa0-4c66-b576-f39cca1413dd",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://f8681028-6e0b-40a1-9e1a-ab85d2a77611",
+      "@type" : "sc:Canvas",
+      "label" : "Map of Chicago",
+      "height" : 9581,
+      "width" : 7248,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ade01da6-a748-4633-bc38-eb602fcdfa48",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C61857B5/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C61857B5",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 9581,
+          "width" : 7248
+        },
+        "on" : "http://f8681028-6e0b-40a1-9e1a-ab85d2a77611"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

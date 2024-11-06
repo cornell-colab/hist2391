@@ -1,0 +1,67 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://cornell-colab.github.io/test/manifests/chicago-jas-wright.json",
+  "@type" : "sc:Manifest",
+  "label" : "Chicago",
+  "metadata" : [ {
+    "label" : "Published",
+    "value" : "Ithaca, N.Y. : Historic Urban Plans, [1970?]"
+  }, {
+    "label" : "Subject",
+    "value" : "Chicago (Ill.) > Maps > Facsimiles."
+  }, {
+    "label" : "Format",
+    "value" : "Scale [ca. 1:8,000]."
+  }, {
+    "label" : "Notes",
+    "value" : "\"This reproduction is of James Wright's manuscript survey of Chicago in 1834.\" Cadastral map. Facsimile. Shows various subdivisions by colors. Original version: [New York, P.A. Mesier's Lith.], 1834."
+  }, {
+    "label" : "Author",
+    "value" : "\nWright, Jas. S. (James S.) "
+  }, {
+    "label" : "Record number",
+    "value" : "G4104.C6 1834 .W7"
+  } ],
+  "description" : [ {
+    "@value" : "\"by Jas. S. Wright according to survey.\"; 1 map : col. ; 46 x 37 cm.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Cornell University Library",
+  "sequences" : [ {
+    "@id" : "http://53cbb497-b8df-4831-91a0-7b02b61c7563",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://cb14e58c-fb5a-4cbb-b591-749f3ecf9e82",
+      "@type" : "sc:Canvas",
+      "label" : "Chicago",
+      "height" : 5099,
+      "width" : 6704,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0ac31772-7c26-4655-8cf3-0737acfaf328",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C61834W7/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C61834W7",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5099,
+          "width" : 6704
+        },
+        "on" : "http://cb14e58c-fb5a-4cbb-b591-749f3ecf9e82"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

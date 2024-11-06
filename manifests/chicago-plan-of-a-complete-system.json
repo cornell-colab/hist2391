@@ -1,0 +1,67 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://cornell-colab.github.io/test/manifests/chicago-plan-of-a-complete-system.json",
+  "@type" : "sc:Manifest",
+  "label" : "Chicago",
+  "metadata" : [ {
+    "label" : "Author",
+    "value" : "\nCommercial Club of Chicago."
+  }, {
+    "label" : "Published",
+    "value" : "[n.p.], c1909."
+  }, {
+    "label" : "Subject",
+    "value" : "Chicago (Ill.) > Maps."
+  }, {
+    "label" : "Format",
+    "value" : "Scale not indicated."
+  }, {
+    "label" : "Notes",
+    "value" : "Negative photostat."
+  }, {
+    "label" : "Record number",
+    "value" : "G4104.C6 1909 .C6"
+  } ],
+  "description" : [ {
+    "@value" : "Plan of a complete system of street circulation and system of parks and playgrounds, presenting the city as an organism in which all the functions are related one to another; map 25 x 30 cm.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Cornell University Library",
+  "sequences" : [ {
+    "@id" : "http://8aa4d7d2-782f-44cc-ba74-40cbc2372fc3",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://3a2d4feb-5ceb-48db-ad48-e247b8e4a7c5",
+      "@type" : "sc:Canvas",
+      "label" : "Chicago",
+      "height" : 3923,
+      "width" : 5408,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d2d9067a-7af6-47f9-aac7-384eb3b45b33",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C61909C6/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G4104C61909C6",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3923,
+          "width" : 5408
+        },
+        "on" : "http://3a2d4feb-5ceb-48db-ad48-e247b8e4a7c5"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

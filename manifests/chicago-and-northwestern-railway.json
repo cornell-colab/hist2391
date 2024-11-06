@@ -1,0 +1,64 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://cornell-colab.github.io/hist2391/manifests/chicago-and-northwestern-railway.json",
+  "@type" : "sc:Manifest",
+  "label" : "Chicago and North-Western Railway: The North-Western line",
+  "metadata" : [ {
+    "label" : "Author",
+    "value" : "\nMatthews-Northrup Company"
+  }, {
+    "label" : "Published",
+    "value" : "Buffalo, N.Y., 1900"
+  }, {
+    "label" : "Subjects",
+    "value" : "United States > Maps.\nChicago and North Western Railway Company."
+  }, {
+    "label" : "Map format",
+    "value" : "Scale 1:7,096,320; 112 miles to one inch."
+  }, {
+    "label" : "Record number",
+    "value" : "G3701.P3 1900 .M3"
+  } ],
+  "description" : [ {
+    "@value" : "Map showing various locations in the U.S. of the general agents of the Traffic Dept. and the territories assigned to them; col. map. 55 x 92 cm.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Cornell University Library",
+  "sequences" : [ {
+    "@id" : "http://9b7e4a69-10fd-4c4b-8ab5-952bbf6e305f",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://c32bf297-723a-4427-8a35-c6cda857a654",
+      "@type" : "sc:Canvas",
+      "label" : "Chicago and North-Western Railway: The North-Western line",
+      "height" : 6841,
+      "width" : 11144,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e38fc536-76b1-420c-94e9-ef9b10de0ee8",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://cornell-colab.github.io/hist2391/images/G3701P31900M3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G3701P31900M3",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 6841,
+          "width" : 11144
+        },
+        "on" : "http://c32bf297-723a-4427-8a35-c6cda857a654"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

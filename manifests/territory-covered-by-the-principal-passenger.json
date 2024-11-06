@@ -1,6 +1,6 @@
 {
   "@context" : "http://iiif.io/api/presentation/2/context.json",
-  "@id" : "https://cornell-colab.github.io/test/manifests/territory-covered-by-the-principal-passenger.json",
+  "@id" : "https://cornell-colab.github.io/hist2391/manifests/territory-covered-by-the-principal-passenger.json",
   "@type" : "sc:Manifest",
   "label" : "Territory covered by the principal passenger associations of the United States",
   "metadata" : [ {

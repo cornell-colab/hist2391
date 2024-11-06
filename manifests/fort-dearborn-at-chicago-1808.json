@@ -1,0 +1,64 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://cornell-colab.github.io/hist2391/manifests/fort-dearborn-at-chicago-1808.json",
+  "@type" : "sc:Manifest",
+  "label" : "Fort Dearborn at Chicago in 1808",
+  "metadata" : [ {
+    "label" : "Published",
+    "value" : "\nChicago, Ill. : The Huey Co., 1967."
+  }, {
+    "label" : "Subjects",
+    "value" : "Fort Dearborn (Ill.) > Maps.\nChicago (Ill.) > Maps."
+  }, {
+    "label" : "Contributor",
+    "value" : "Whistler, John."
+  }, {
+    "label" : "Notes",
+    "value" : "\"Original map in the National Archives, Washington, D.C. This reproduction made ... from a blueprint in the possession of the Chicago Historical Society.\nIncludes numbered \"key.\""
+  }, {
+    "label" : "Record number",
+    "value" : "G4104.C6 1808 F6 1967"
+  } ],
+  "description" : [ {
+    "@value" : "built by Captain John Whistler; 1 map ; 88 x 60 cm.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Cornell University Library",
+  "sequences" : [ {
+    "@id" : "http://45d18ab0-fcbb-4420-9a1b-53b09d3feb01",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://d8b2074f-42e4-4416-9fc7-c73a9ad7567d",
+      "@type" : "sc:Canvas",
+      "label" : "Fort Dearborn at Chicago in 1808",
+      "height" : 11899,
+      "width" : 7464,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://cdc81669-0dfe-4ec7-af4e-c2066f30c42e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://cornell-colab.github.io/hist2391/images/G 4104/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://cornell-colab.github.io/hist2391/images/G 4104",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 11899,
+          "width" : 7464
+        },
+        "on" : "http://d8b2074f-42e4-4416-9fc7-c73a9ad7567d"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

@@ -1,6 +1,6 @@
 {
   "@context" : "http://iiif.io/api/presentation/2/context.json",
-  "@id" : "https://cornell-colab.github.io/test/manifests/plan-of-lincoln-park.json",
+  "@id" : "https://cornell-colab.github.io/hist2391/manifests/plan-of-lincoln-park.json",
   "@type" : "sc:Manifest",
   "label" : "Plan of Lincoln Park and boulevards 1887",
   "metadata" : [ {

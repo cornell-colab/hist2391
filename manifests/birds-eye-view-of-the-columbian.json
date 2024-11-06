@@ -1,6 +1,6 @@
 {
   "@context" : "http://iiif.io/api/presentation/2/context.json",
-  "@id" : "https://cornell-colab.github.io/test/manifests/birds-eye-view-of-the-columbian.json",
+  "@id" : "https://cornell-colab.github.io/hist2391/manifests/birds-eye-view-of-the-columbian.json",
   "@type" : "sc:Manifest",
   "label" : "Birds eye view [of the] World's Columbian Exposition",
   "metadata" : [ {

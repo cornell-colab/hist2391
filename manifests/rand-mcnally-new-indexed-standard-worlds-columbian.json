@@ -1,6 +1,6 @@
 {
   "@context" : "http://iiif.io/api/presentation/2/context.json",
-  "@id" : "https://cornell-colab.github.io/test/manifests/rand-mcnally-new-indexed-standard-worlds-columbian.json",
+  "@id" : "https://cornell-colab.github.io/hist2391/manifests/rand-mcnally-new-indexed-standard-worlds-columbian.json",
   "@type" : "sc:Manifest",
   "label" : "Rand, McNally and Co.'s new indexed standard guide map of the World's Columbian Exposition, Chicago, 1893",
   "metadata" : [ {

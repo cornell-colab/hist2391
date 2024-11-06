@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 234,
+    "height" : 372
+  }, {
+    "width" : 467,
+    "height" : 744
+  }, {
+    "width" : 933,
+    "height" : 1488
+  }, {
+    "width" : 1866,
+    "height" : 2975
+  }, {
+    "width" : 3732,
+    "height" : 5950
+  }, {
+    "width" : 7464,
+    "height" : 11899
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 7464,
+  "@id" : "http://cornell-colab.github.io/hist2391/images/G 4104",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 11899
+}

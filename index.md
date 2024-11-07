@@ -35,12 +35,3 @@
     * [View in Mirador](https://projectmirador.org/embed/?iiif-content={{ file.path | absolute_url}})
     * [View in UV](http://universalviewer.io/examples/#?c=&m=&s=&cv=&manifest={{ file.path | absolute_url}})
 {% endfor %}
-
-### Annotations
-
-{% assign annotations = site.static_files | where_exp: "annotation", "annotation.path contains '/annotations/'"  |where_exp: "annotation", "annotation.extname == '.json'"  | where_exp: "annotation", "annotation.path != '/annotations/collection.json'" %}
-
-{% for file in annotations %}
- * [{{ file.path | replace: "/annotations/", ""}}]({{ file.path | absolute_url }})
-    * [View in Annona](plugins/annona/?iiif-content={{ file.path | absolute_url }})
-{% endfor %}

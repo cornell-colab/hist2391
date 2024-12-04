@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://ece08518-3b0c-4007-951b-635500defd80",
+	"@id": "https://cornell-colab.github.io/hist2391/manifests/cgrowth-elements-population-1790-to-1890.json",
 	"@type": "sc:Manifest",
 	"label": "pg. 42 - Statistical atlas of the United States, based upon the results of the eleventh census",
 	"metadata": [

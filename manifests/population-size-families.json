@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://8a0c525d-5197-4fc0-9998-1c538691f9f7",
+	"@id": "https://cornell-colab.github.io/hist2391/manifests/population-size-families.json",
 	"@type": "sc:Manifest",
 	"label": "pg. 28 - Statistical atlas of the United States, based upon the results of the eleventh census",
 	"metadata": [

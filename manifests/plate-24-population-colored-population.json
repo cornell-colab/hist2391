@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://820a126a-4bb6-4990-a518-783a36a5c724",
+	"@id": "https://cornell-colab.github.io/hist2391/manifests/plate-24-population-colored-population.json",
 	"@type": "sc:Manifest",
 	"label": "plate 24 - Scribner's statistical atlas of the United States, showing by graphic methods their present condition and their political, social and industrial development",
 	"metadata": [

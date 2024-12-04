@@ -1,0 +1,100 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://68802454-2538-47ac-9fbb-a69fe2852d57",
+	"@type": "sc:Manifest",
+	"label": "pg. 32 - Statistical atlas of the United States, based upon the results of the eleventh census",
+	"metadata": [
+		{
+			"label": "Item Url",
+			"value": "https://www.loc.gov/item/07019233/"
+		}
+	],
+	"description": [
+		{
+			"@value": "Phillips, 1333 At head of title: Department of the interior, Census office. Robert P. Porter, superinttendent ... Carroll D. Wright, commissioner of labor in charge. Available also through the Library of Congress Web site as a raster image. Copies renumbered 4/2000. Copy 3 was made Copy 1.",
+			"@language": "en"
+		}
+	],
+	"license": "N/A",
+	"attribution": "Provided by the Library of Congress",
+	"sequences": [
+		{
+			"@id": "http://c8019794-c6c5-4d28-adae-fc5890b02442",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://af421476-c5c9-4786-8e18-29d9960a9592",
+					"@type": "sc:Canvas",
+					"label": "The total population and its elements at each census: 1790 to 1890",
+					"height": 6283,
+					"width": 4916,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://499b8da5-a69a-4e4a-aecf-ac13b4b0e074",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd370m:g3701m:g3701gm:gct00010:ca000032/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd370m:g3701m:g3701gm:gct00010:ca000032",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"txt",
+												"jp2",
+												"tif",
+												"pdf",
+												"gif",
+												"png",
+												"webp"
+											],
+											"qualities": [
+												"default",
+												"native",
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"supports": [
+												"baseUriRedirect",
+												"cors",
+												"jsonldMediaType",
+												"mirroring",
+												"regionByPct",
+												"regionByPx",
+												"rotationBy90s",
+												"sizeByWhListed",
+												"sizeByForcedWh",
+												"sizeByH",
+												"sizeByPct",
+												"sizeByW",
+												"sizeByWh"
+											]
+										}
+									]
+								},
+								"height": 6283,
+								"width": 4916
+							},
+							"on": "http://af421476-c5c9-4786-8e18-29d9960a9592"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}

@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://1fa76ec3-2144-4330-8a16-d8144bf27a29",
+	"@id": "https://cornell-colab.github.io/hist2391/manifests/distribution-colored-population-US-1890.json",
 	"@type": "sc:Manifest",
 	"label": "pg. 26 - Statistical atlas of the United States, based upon the results of the eleventh census",
 	"metadata": [

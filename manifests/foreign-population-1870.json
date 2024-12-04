@@ -1,0 +1,100 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://25c05520-4cdd-4c88-9597-2d0b6410c694",
+	"@type": "sc:Manifest",
+	"label": "pg. 75 - Statistical atlas of the United States based on the results of the ninth census 1870 with contributions from many eminent men of science and several departments of the government",
+	"metadata": [
+		{
+			"label": "Item Url",
+			"value": "https://www.loc.gov/item/05019329/"
+		}
+	],
+	"description": [
+		{
+			"@value": "Copy 3 has variant title on plate XVIIa. Phillips, 1330 Available also through the Library of Congress Web site as a raster image. AACR2 Copy 2 replaced with another copy 4/2000",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "Provided by the Library of Congress",
+	"sequences": [
+		{
+			"@id": "http://0c786ac2-2087-4568-8c06-aee04f77aec3",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://ff9f95e0-88a4-4337-aa18-c3aec4073585",
+					"@type": "sc:Canvas",
+					"label": "Foreign population (1870)",
+					"height": 6140,
+					"width": 4716,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://df428426-17fe-49bc-8041-bc0dbf8f335d",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd370m:g3701m:g3701gm:gct00008:ca000075/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd370m:g3701m:g3701gm:gct00008:ca000075",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"txt",
+												"jp2",
+												"tif",
+												"pdf",
+												"gif",
+												"png",
+												"webp"
+											],
+											"qualities": [
+												"default",
+												"native",
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"supports": [
+												"baseUriRedirect",
+												"cors",
+												"jsonldMediaType",
+												"mirroring",
+												"regionByPct",
+												"regionByPx",
+												"rotationBy90s",
+												"sizeByWhListed",
+												"sizeByForcedWh",
+												"sizeByH",
+												"sizeByPct",
+												"sizeByW",
+												"sizeByWh"
+											]
+										}
+									]
+								},
+								"height": 6140,
+								"width": 4716
+							},
+							"on": "http://ff9f95e0-88a4-4337-aa18-c3aec4073585"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}

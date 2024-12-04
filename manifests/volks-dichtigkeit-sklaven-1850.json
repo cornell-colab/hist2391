@@ -1,0 +1,69 @@
+{
+  "sequences": [
+    {
+      "canvases": [
+        {
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00011772%2FThULB_129489816_1855_Perthes_0164_Rescan.tif"
+                },
+                "width": 10062,
+                "height": 6764,
+                "@context": "http://iiif.io/api/presentation/2/context.json",
+                "@type": "dctypes:Image",
+                "@id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00011772%2FThULB_129489816_1855_Perthes_0164_Rescan.tif"
+              },
+              "on": "https://dhb.thulb.uni-jena.de/api/iiif/presentation/v2/ufb_derivate_00011772/canvas/ufb_derivate_00011772%2FThULB_129489816_1855_Perthes_0164_Rescan.tif",
+              "motivation": "sc:painting",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@type": "@oa:Annotation",
+              "@id": "https://dhb.thulb.uni-jena.de/api/iiif/presentation/v2/ufb_derivate_00011772/annotation/ufb_derivate_00011772%2FThULB_129489816_1855_Perthes_0164_Rescan.tif"
+            }
+          ],
+          "metadata": [],
+          "label": "phys_ThULB_129489816_1855_Perthes_0164_Rescan",
+          "height": 6764,
+          "width": 10062,
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@type": "sc:Canvas",
+          "@id": "https://dhb.thulb.uni-jena.de/api/iiif/presentation/v2/ufb_derivate_00011772/canvas/ufb_derivate_00011772%2FThULB_129489816_1855_Perthes_0164_Rescan.tif"
+        }
+      ],
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Sequence",
+      "@id": "https://dhb.thulb.uni-jena.de/api/iiif/presentation/v2/ufb_derivate_00011772/sequence/phys_ufb_derivate_00011772"
+    }
+  ],
+  "metadata": [
+    {
+      "label": "title",
+      "value": "1855. Graphische Darstellungen der Bevölkerungs-Verhältnisse \u0026c. in den Vereinigten Staaten von Nord-Amerika, nach dem neuesten Census (1850), Volks-Dichtigkeit der Weissen und Freien Farbigen im J. 1850"
+    }
+  ],
+  "structures": [
+    {
+      "metadata": [
+        {
+          "label": "title",
+          "value": "1855. Graphische Darstellungen der Bevölkerungs-Verhältnisse \u0026c. in den Vereinigten Staaten von Nord-Amerika, nach dem neuesten Census (1850), Volks-Dichtigkeit der Weissen und Freien Farbigen im J. 1850"
+        }
+      ],
+      "ranges": [],
+      "canvases": [
+        "https://dhb.thulb.uni-jena.de/api/iiif/presentation/v2/ufb_derivate_00011772/canvas/ufb_derivate_00011772%2FThULB_129489816_1855_Perthes_0164_Rescan.tif"
+      ],
+      "label": "SPA 4° 00100 (001) - 1855. Graphische Darstellungen der Bevölkerungs-Verhältnisse \u0026c. in den Vereinigten Staaten von Nord-Amerika, nach dem neuesten Census (1850)",
+      "viewingHint": "top",
+      "@type": "sc:Range",
+      "@id": "https://dhb.thulb.uni-jena.de/api/iiif/presentation/v2/ufb_derivate_00011772/range/log_ufb_derivate_00011772"
+    }
+  ],
+  "label": "1855. Graphische Darstellungen der Bevölkerungs-Verhältnisse \u0026c. in den Vereinigten Staaten von Nord-Amerika, nach dem neuesten Census (1850), Volks-Dichtigkeit der Weissen und Freien Farbigen im J. 1850",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "https://dhb.thulb.uni-jena.de/api/iiif/presentation/v2/ufb_derivate_00011772/manifest"
+}

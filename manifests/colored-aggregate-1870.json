@@ -1,0 +1,100 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://990defa0-9ff8-4efd-8fb0-d77625b79caf",
+	"@type": "sc:Manifest",
+	"label": "pg. 72 - Statistical atlas of the United States based on the results of the ninth census 1870 with contributions from many eminent men of science and several departments of the government",
+	"metadata": [
+		{
+			"label": "Item Url",
+			"value": "https://www.loc.gov/item/05019329/"
+		}
+	],
+	"description": [
+		{
+			"@value": "Copy 3 has variant title on plate XVIIa. Phillips, 1330 Available also through the Library of Congress Web site as a raster image. AACR2 Copy 2 replaced with another copy 4/2000",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "Provided by the Library of Congress",
+	"sequences": [
+		{
+			"@id": "http://1e884aaa-786d-4bbf-be9a-d4c83f704d02",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://77fbffb9-f99e-42b0-9bb0-404eba5a4423",
+					"@type": "sc:Canvas",
+					"label": "Colored aggregate population (1870)",
+					"height": 6080,
+					"width": 4644,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://a4cbf615-f9f6-4b49-91b7-e6c596839f98",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd370m:g3701m:g3701gm:gct00008:ca000073/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd370m:g3701m:g3701gm:gct00008:ca000073",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"txt",
+												"jp2",
+												"tif",
+												"pdf",
+												"gif",
+												"png",
+												"webp"
+											],
+											"qualities": [
+												"default",
+												"native",
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"supports": [
+												"baseUriRedirect",
+												"cors",
+												"jsonldMediaType",
+												"mirroring",
+												"regionByPct",
+												"regionByPx",
+												"rotationBy90s",
+												"sizeByWhListed",
+												"sizeByForcedWh",
+												"sizeByH",
+												"sizeByPct",
+												"sizeByW",
+												"sizeByWh"
+											]
+										}
+									]
+								},
+								"height": 6080,
+								"width": 4644
+							},
+							"on": "http://77fbffb9-f99e-42b0-9bb0-404eba5a4423"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}

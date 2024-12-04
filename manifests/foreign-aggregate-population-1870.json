@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://c18c8f41-109a-4401-90fa-c22e219f034d",
+	"@id": "https://cornell-colab.github.io/hist2391/manifests/foreign-aggregate-population-1870.json",
 	"@type": "sc:Manifest",
 	"label": "pg. 76 - Statistical atlas of the United States based on the results of the ninth census 1870 with contributions from many eminent men of science and several departments of the government",
 	"metadata": [

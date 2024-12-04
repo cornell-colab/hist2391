@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://cdb386b1-eadb-4596-8d4f-71295c9c42bf",
+	"@id": "https://cornell-colab.github.io/hist2391/manifests/composition-foreign-born-population-1890.json",
 	"@type": "sc:Manifest",
 	"label": "pg. 36 - Statistical atlas of the United States, based upon the results of the eleventh census",
 	"metadata": [

@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://73852797-9ffe-489f-8468-121d407bd76b",
+	"@id": "https://cornell-colab.github.io/hist2391/manifests/kansas-pacific-railway.json",
 	"@type": "sc:Manifest",
 	"label": "Kansas Pacific Railway the best and shortest cattle trail from Texas",
 	"metadata": [

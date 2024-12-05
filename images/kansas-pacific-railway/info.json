@@ -6,27 +6,27 @@
   } ],
   "protocol" : "http://iiif.io/api/image",
   "sizes" : [ {
-    "width" : 46,
-    "height" : 63
+    "width" : 532,
+    "height" : 724
   }, {
-    "width" : 92,
-    "height" : 125
+    "width" : 1064,
+    "height" : 1447
   }, {
-    "width" : 184,
-    "height" : 250
+    "width" : 2128,
+    "height" : 2894
   }, {
-    "width" : 368,
-    "height" : 500
+    "width" : 4256,
+    "height" : 5787
   }, {
-    "width" : 736,
-    "height" : 1000
+    "width" : 8512,
+    "height" : 11573
   }, {
-    "width" : 1471,
-    "height" : 2000
+    "width" : 17023,
+    "height" : 23146
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
-  "width" : 1471,
+  "width" : 17023,
   "@id" : "https://cornell-colab.github.io/hist2391/images/kansas-pacific-railway",
   "@context" : "http://iiif.io/api/image/2/context.json",
-  "height" : 2000
+  "height" : 23146
 }

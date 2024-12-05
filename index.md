@@ -13,6 +13,8 @@
 </details>
 
 ### IIIF Images:
+<details>
+<summary>Images</summary>
 <script src="{{ '/plugins/js/image.js' | absolute_url }}" ></script>
 
 <script
@@ -37,4 +39,5 @@
         rowHeight: 300
     });
 </script>
+</details>
 

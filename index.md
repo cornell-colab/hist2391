@@ -1,5 +1,8 @@
 {{ site.description }}
-### Manifests:
+
+### IIIF Manifests:
+<details>
+<summary>Manifests</summary>
 {% assign manifests = site.static_files | where_exp: "manifest", "manifest.path contains '/manifests/'"  |where_exp: "manifest", "manifest.extname == '.json'" | where_exp: "manifest", "manifest.path != '/manifests/collection.json' " %}
 
 {% for file in manifests %}
@@ -7,7 +10,7 @@
     * [View in Mirador](https://projectmirador.org/embed/?iiif-content={{ file.path | absolute_url}})
     * [View in UV](http://universalviewer.io/examples/#?c=&m=&s=&cv=&manifest={{ file.path | absolute_url}})
 {% endfor %}
-
+</details>
 
 ### IIIF Images:
 <script src="{{ '/plugins/js/image.js' | absolute_url }}" ></script>

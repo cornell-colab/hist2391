@@ -1,1 +1,32 @@
-
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 46,
+    "height" : 63
+  }, {
+    "width" : 92,
+    "height" : 125
+  }, {
+    "width" : 184,
+    "height" : 250
+  }, {
+    "width" : 368,
+    "height" : 500
+  }, {
+    "width" : 736,
+    "height" : 1000
+  }, {
+    "width" : 1471,
+    "height" : 2000
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1471,
+  "@id" : "http://localhost:8887/iiif/Kansas Pacific Railway the best and shortest cattle trail from Texas ",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2000
+}

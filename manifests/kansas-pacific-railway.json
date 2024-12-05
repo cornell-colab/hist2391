@@ -1,0 +1,96 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://73852797-9ffe-489f-8468-121d407bd76b",
+	"@type": "sc:Manifest",
+	"label": "Kansas Pacific Railway the best and shortest cattle trail from Texas",
+	"metadata": [
+		{
+			"label": "Publisher",
+			"value": "K.C. Lith. Co."
+		},
+		{
+			"label": "Date",
+			"value": "1875"
+		},
+		{
+			"label": "Place",
+			"value": "Great Plains, West (U.S.)"
+		},
+		{
+			"label": "Subjects",
+			"value": "Railroads"
+		},
+		{
+			"label": "Extent",
+			"value": "1 map : col. ; 53 x 38 cm, folded in cover to 15 x 9 cm + 1 guide (21 p. ; 17 cm)"
+		},
+		{
+			"label": "Archival Collection Title",
+			"value": "Everett D. Graff Collection"
+		},
+		{
+			"label": "Call Number",
+			"value": "Graff 2275"
+		},
+		{
+			"label": "BibID",
+			"value": "154216"
+		},
+		{
+			"label": "Unique Identifier",
+			"value": "NL1YDGQ"
+		}
+	],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "The Newberry makes its collections available for any lawful purpose, commercial or non-commercial, without licensing or permission fees to the library, subject to these terms and conditions.",
+	"attribution": "Newberry Library",
+	"sequences": [
+		{
+			"@id": "http://fb4d3c3e-4a0b-4d1c-8a12-c3a047de1c9e",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://78363ae9-192b-4b8c-ac97-69c22dafc4f7",
+					"@type": "sc:Canvas",
+					"label": "Kansas Pacific Railway the best and shortest cattle trail from Texas",
+					"height": 11573,
+					"width": 8512,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://1ee2f87d-6af0-4fb9-808c-e7277051d175",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cornell-colab.github.io/hist2391/images/kansas-pacific-railway/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cornell-colab.github.io/hist2391/images/kansas-pacific-railway",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 11573,
+								"width": 8512
+							},
+							"on": "http://78363ae9-192b-4b8c-ac97-69c22dafc4f7"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}

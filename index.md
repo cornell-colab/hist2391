@@ -1,4 +1,4 @@
-This site holds all of the IIIF manifests and images processed by the Digital CoLab for HIST 22391:From Terra Incognita to Territories of Nation-States: Early American History in Two Dozen Maps. Manifests are ordered alphabetically and the labels will be the same as the individual image title in whatever repository the image is from.
+This site holds all of the IIIF manifests and images processed by the Digital CoLab for HIST 22391: From Terra Incognita to Territories of Nation-States: Early American History in Two Dozen Maps. Manifests are ordered alphabetically and the labels will be the same as the individual image title in whatever repository the image is from.
 
 ### IIIF Manifests:
 {% assign manifests = site.static_files | where_exp: "manifest", "manifest.path contains '/manifests/'"  |where_exp: "manifest", "manifest.extname == '.json'" | where_exp: "manifest", "manifest.path != '/manifests/collection.json' " %}

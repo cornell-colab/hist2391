@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://bc3095ca-a5cd-4911-8b09-9e84ae8535fa",
+	"@id": "https://cornell-colab.github.io/hist2391/manifests/map-territorial-divisions-aborigines-ny.json",
 	"@type": "sc:Manifest",
 	"label": "Map of the early and recent sites of the Aborigines of New York.",
 	"metadata": [

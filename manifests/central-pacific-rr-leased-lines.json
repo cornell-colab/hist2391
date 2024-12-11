@@ -1,0 +1,88 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://fcab6b14-4524-4558-a184-cf1a51bbba32",
+	"@type": "sc:Manifest",
+	"label": "Central Pacific R.R. and leased lines : Southern Pacific R.R. and connections",
+	"metadata": [
+		{
+			"label": "Record number",
+			"value": "G4051.P3 1882 .R3"
+		},
+		{
+			"label": "Format",
+			"value": "No scale given."
+		},
+		{
+			"label": "Contributors",
+			"value": "Southern Pacific Railroad Company.\nCentral Pacific Railroad Company."
+		},
+		{
+			"label": "Author",
+			"value": "\nRand McNally and Company."
+		},
+		{
+			"label": "Published",
+			"value": "Chicago, Ill. : The Company, 1882."
+		},
+		{
+			"label": "Subjects",
+			"value": "Railroads > West (U.S.) > Maps."
+		},
+		{
+			"label": "Summary",
+			"value": "Covers United States west of the Great Lakes."
+		}
+	],
+	"description": [
+		{
+			"@value": "Southern Pacific R.R. and connections; 1 map : col. ; on sheet 72 x 81 cm.",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "Cornell University Library",
+	"sequences": [
+		{
+			"@id": "http://e5fb6f18-7aa4-4b1b-a827-ecae4a4a2a34",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://d418ccbe-1983-40cb-9711-623fdf0efe9f",
+					"@type": "sc:Canvas",
+					"label": "Central Pacific R.R. and leased lines : Southern Pacific R.R. and connections",
+					"height": 8431,
+					"width": 9584,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://a80fe653-36a3-4eb4-b33f-f7e078e303e6",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cornell-colab.github.io/hist2391/images/G 4051/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cornell-colab.github.io/hist2391/images/G 4051",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 8431,
+								"width": 9584
+							},
+							"on": "http://d418ccbe-1983-40cb-9711-623fdf0efe9f"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}

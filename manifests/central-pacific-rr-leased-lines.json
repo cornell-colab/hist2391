@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://fcab6b14-4524-4558-a184-cf1a51bbba32",
+	"@id": "https://cornell-colab.github.io/hist2391/manifests/central-pacific-rr-leased-lines.json",
 	"@type": "sc:Manifest",
 	"label": "Central Pacific R.R. and leased lines : Southern Pacific R.R. and connections",
 	"metadata": [

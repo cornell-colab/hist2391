@@ -1,0 +1,59 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://acd81432-7635-4837-9f22-424250b525c2",
+	"@type": "sc:Manifest",
+	"label": "Railroads of the State of New York",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://c4be5017-3b61-4dbd-b26d-913ebd1a8ccf",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://a4947e8d-650a-4fbd-baca-c504ce996595",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 11037,
+					"width": 14100,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://1628059f-96c9-4ecf-a072-3ec5ff7b90ab",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cornell-colab.github.io/hist2391/images/map-railroads-state-ny-1885/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cornell-colab.github.io/hist2391/images/map-railroads-state-ny-1885",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 11037,
+								"width": 14100
+							},
+							"on": "http://a4947e8d-650a-4fbd-baca-c504ce996595"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}

@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "https://www.loc.gov/item/07019233/manifest.json",
+	"@id": "https://cornell-colab.github.io/hist2391/manifests/proportion-whites-foreign-parentage-1890.json",
 	"@type": "sc:Manifest",
 	"attribution": "Provided by the Library of Congress",
 	"description": "Phillips, 1333 At head of title: Department of the interior, Census office. Robert P. Porter, superinttendent ... Carroll D. Wright, commissioner of labor in charge. Available also through the Library of Congress Web site as a raster image. Copies renumbered 4/2000. Copy 3 was made Copy 1.",

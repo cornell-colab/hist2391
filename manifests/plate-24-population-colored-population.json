@@ -41,12 +41,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd370m:g3701m:g3701gm:gct00009:ca000077/full/full/0/default.jpg",
+								"@id": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd370m:g3701m:g3701gm:gct00009:ca000076/full/pct:25/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd370m:g3701m:g3701gm:gct00009:ca000077",
+									"@id": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd370m:g3701m:g3701gm:gct00009:ca000076",
 									"profile": [
 										"http://iiif.io/api/image/2/level2.json",
 										{

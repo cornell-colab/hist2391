@@ -1,8 +1,8 @@
 # Methods for Creating and Hosting IIIF Images and Manifests Using GitHub
 
-This guide walks you through three **free, easy** methods for creating and hosting \[International Image Interoperability Framework (IIIF)\]([https://en.wikipedia.org/wiki/International\_Image\_Interoperability\_Framework](https://en.wikipedia.org/wiki/International_Image_Interoperability_Framework)) manifests from images that you've downloaded to your local device. There are no fees for processing and hosting through any of these methods and all of the tools and applications used in these methods are open-source. The only requirements are an email address and a device with access to the Internet.
+This guide walks you through three **free, easy** methods for creating and hosting [International Image Interoperability Framework (IIIF)](https://en.wikipedia.org/wiki/International_Image_Interoperability_Framework) manifests from images that you've downloaded to your local device. There are no fees for processing and hosting through any of these methods and all of the tools and applications used in these methods are open-source. The only requirements are an email address and a device with access to the Internet.
 
-Note that all of these methods rely on tools and workflows created by IIIF Technical Coordinator \[Glen Robson\]([https://github.com/glenrobson](https://github.com/glenrobson)). Methods get progressively harder and more intensive as you go through this guide.
+Note that all of these methods rely on tools and workflows created by IIIF Technical Coordinator [Glen Robson](https://github.com/glenrobson). Methods get progressively harder and more intensive as you go through this guide.
 
 ## Introduction: IIIF and Level-0 Compliance
 

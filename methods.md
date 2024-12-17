@@ -24,7 +24,7 @@ To create an IIIF Manifest for an image using the Internet Archive:
 4. Select “No” next to "Test Items"; this is required for this method to work.  
 5. Click the **Upload and Create Your Item** button at the bottom of the screen. Wait for the image to load in a new tab.  
 6. Scroll down on the new image page to the Identifier field. Copy the identifier.  
-7. Paste the identifier into the following URL scheme, without the brackets: https://iiif.archive.org/iiif/`IDENTIFIER`/manifest.json.
+7. Paste the identifier into the following URL scheme, without the brackets: "https://iiif.archive.org/iiif/`IDENTIFIER`/manifest.json."
 8. Paste the URL into a IIIF-supported viewer, such as [Universal Viewer](https://universalviewer.io) or [Mirador](https://mirador-dev.netlify.app/__tests__/integration/mirador/), to test it.
 
 Since the image is hosted through the Internet Archive already, you do not need to host it separately. This process means that you can create a manifest for almost any image that has been uploaded to the Internet Archive, as long as you have its identifier.

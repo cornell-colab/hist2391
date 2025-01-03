@@ -9,7 +9,7 @@
   },
   "items": [
     {
-      "id": "https://example.org/c95t4rxkbj9-m5h5ovbi/canvas/3kboj129ek6-m5h5qsm5",
+      "id": "https://cornell-colab.github.io/hist2391/manifests/test/canvas/3kboj129ek6-m5h5qsm5",
       "type": "Canvas",
       "duration": 39.70612244897959,
       "label": {
@@ -18,32 +18,31 @@
         ]
       },
       "accompanyingCanvas": {
-        "id": "https://iiif.io/api/cookbook/recipe/0014-accompanyingcanvas/canvas/accompanying",
+        "id": "https://cornell-colab.github.io/hist2391/manifests/test/canvas/qjhif7955zn-m5h6q7i6",
         "type": "Canvas",
         "label": {
           "en": [
-            ""
+            "Qur'an carpet page; al-Fatihah"
           ]
         },
-        "height": 998,
-        "width": 772,
+        "height": 3331,
+        "width": 2815,
         "items": [
           {
-            "id": "https://iiif.io/api/cookbook/recipe/0014-accompanyingcanvas/canvas/accompanying/annotation/page",
+            "id": "https://cornell-colab.github.io/hist2391/manifests/test/canvas/76856478y78967fghhxdf",
             "type": "AnnotationPage",
             "items": [
-              {
-                "id": "https://iiif.io/api/cookbook/recipe/0014-accompanyingcanvas/canvas/accompanying/annotation/image",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://tile.loc.gov/image-services/iiif/service:amed:amedscd:2019714488:0002/full/pct:100/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "height": 998,
-                  "width": 772,
-                },
-                "target": "https://iiif.io/api/cookbook/recipe/0014-accompanyingcanvas/canvas/accompanying"
+            {
+              "id": "https://cornell-colab.github.io/hist2391/manifests/test/annotation/0sizwbidakmi-m5h6q79l",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://cornell-colab.github.io/hist2391/manifests/test/canvas/qjhif7955zn-m5h6q7i6",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:amed:amedscd:2019714488:0001/full/pct:100/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3331,
+                "width": 2815
               }
             ]
           }
@@ -51,14 +50,14 @@
       },
       "items": [
         {
-          "id": "https://example.org/c95t4rxkbj9-m5h5ovbi/canvas/3kboj129ek6-m5h5qsm5/annotation-page/d0u7j38xgq-m5h5qsm5",
+          "id": "https://cornell-colab.github.io/hist2391/manifests/test/canvas/3kboj129ek6-m5h5qsm5/annotation-page/d0u7j38xgq-m5h5qsm5",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://example.org/c95t4rxkbj9-m5h5ovbi/annotation/kul7vcwmf6s-m5h5qsm3",
+              "id": "https://cornell-colab.github.io/hist2391/manifests/test/annotation/kul7vcwmf6s-m5h5qsm3",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://example.org/c95t4rxkbj9-m5h5ovbi/canvas/3kboj129ek6-m5h5qsm5",
+              "target": "https://cornell-colab.github.io/hist2391/manifests/test/canvas/3kboj129ek6-m5h5qsm5",
               "body": {
                 "id": "https://download.quranicaudio.com/quran/nasser_bin_ali_alqatami/001.mp3",
                 "type": "Sound",

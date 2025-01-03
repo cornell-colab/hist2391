@@ -36,13 +36,21 @@
               "id": "https://cornell-colab.github.io/hist2391/manifests/test/annotation/0sizwbidakmi-m5h6q79l",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://cornell-colab.github.io/hist2391/manifests/test/canvas/qjhif7955zn-m5h6q7i6",
               "body": {
                 "id": "https://tile.loc.gov/image-services/iiif/service:amed:amedscd:2019714488:0001/full/pct:100/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 3331,
-                "width": 2815
+                "width": 2815,
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:amed:amedscd:2019714488:0001"
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://cornell-colab.github.io/hist2391/manifests/test/canvas/qjhif7955zn-m5h6q7i6"
               }
             ]
           }

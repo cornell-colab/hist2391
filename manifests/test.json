@@ -1,0 +1,42 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://cornell-colab.github.io/hist2391/manifests/test/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Test"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://example.org/c95t4rxkbj9-m5h5ovbi/canvas/3kboj129ek6-m5h5qsm5",
+      "type": "Canvas",
+      "duration": 39.70612244897959,
+      "label": {
+        "en": [
+          "Surah al Fatihah"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/c95t4rxkbj9-m5h5ovbi/canvas/3kboj129ek6-m5h5qsm5/annotation-page/d0u7j38xgq-m5h5qsm5",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/c95t4rxkbj9-m5h5ovbi/annotation/kul7vcwmf6s-m5h5qsm3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/c95t4rxkbj9-m5h5ovbi/canvas/3kboj129ek6-m5h5qsm5",
+              "body": {
+                "id": "https://download.quranicaudio.com/quran/nasser_bin_ali_alqatami/001.mp3",
+                "type": "Sound",
+                "format": "audio/mp4",
+                "duration": 39.70612244897959
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

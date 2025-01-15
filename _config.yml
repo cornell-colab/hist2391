@@ -4,7 +4,7 @@
 title:               HIST 2391 Manifests & Images
 tagline:             'a collection of images and manifests for American historical maps'
 description:         'a collection of images and manifests for American historical maps'
-url:                 'http://cornell-colab.github.io'
+url:                 'https://cornell-colab.github.io'
 baseurl:             '/hist2391'
 
 # About/contact

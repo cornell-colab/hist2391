@@ -1,20 +1,20 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+title:               HIST 2391 Manifests & Images
+tagline:             'a collection of images and manifests for American historical maps'
+description:         'a collection of images and manifests for American historical maps'
+url:                 'http://cornell-colab.github.io'
+baseurl:             '/hist2391'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Digital CoLab
+  url:               https://github.com/cornell-colab
+  email:             digitalcolab@cornell.edu
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme:
+color-scheme: cyan
 
 # Permalinks
 permalink: pretty

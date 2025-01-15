@@ -1,3 +1,7 @@
+---
+layout: default
+title: "IIIF Images"
+---
 ### IIIF Images
 <script src="{{ '/plugins/js/image.js' | absolute_url }}" ></script>
 

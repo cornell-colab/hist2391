@@ -1,13 +1,4 @@
-### IIIF Manifests:
-{% assign manifests = site.static_files | where_exp: "manifest", "manifest.path contains '/manifests/'"  |where_exp: "manifest", "manifest.extname == '.json'" | where_exp: "manifest", "manifest.path != '/manifests/collection.json' " %}
-
-{% for file in manifests %}
- * [{{ file.path | replace: "/manifests/", ""}}]({{ file.path | absolute_url }}) 
-    * [View in Mirador](https://projectmirador.org/embed/?iiif-content={{ file.path | absolute_url}})
-    * [View in UV](http://universalviewer.io/examples/#?c=&m=&s=&cv=&manifest={{ file.path | absolute_url}})
-{% endfor %}
-
-### IIIF Images:
+### IIIF Images
 <script src="{{ '/plugins/js/image.js' | absolute_url }}" ></script>
 <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="plugins/justified/justifiedGallery.min.css"/>

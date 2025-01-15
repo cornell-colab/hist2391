@@ -1,3 +1,8 @@
+---
+layout: page
+title: Methods
+---
+
 Note: This guide is a work in progress. The guide currently does not contain images. Please check back soon for updates.
 
 # Methods for Creating and Hosting IIIF Images and Manifests Using GitHub

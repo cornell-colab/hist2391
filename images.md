@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: IIIF Images
 ---
 <script src="{{ '/plugins/js/image.js' | absolute_url }}" ></script>

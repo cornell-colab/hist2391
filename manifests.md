@@ -1,9 +1,4 @@
----
-layout: page
-title: Manifests
----
-
-### IIIF Manifests:
+### IIIF Manifests
 {% assign manifests = site.static_files | where_exp: "manifest", "manifest.path contains '/manifests/'"  |where_exp: "manifest", "manifest.extname == '.json'" | where_exp: "manifest", "manifest.path != '/manifests/collection.json' " %}
 
 {% for file in manifests %}

@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 View the projects created by students in the course:
-<iframe src="https://www.exhibit.so/exhibits/UB3UKQwmaiTsxgfyUh8Z" width="100%" height-"600px"></iframe>
+<iframe src="https://www.exhibit.so/exhibits/UB3UKQwmaiTsxgfyUh8Z" width="100%" height="600px"></iframe>
   <div class="card">
     <a href="https://www.exhibit.so/exhibits/UB3UKQwmaiTsxgfyUh8Z">
     <div class="card-container">

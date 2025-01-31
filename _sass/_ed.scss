@@ -421,10 +421,13 @@ Manage the cards that appear on the projects page
 
 .card {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  padding: 5px 5x 5px 5px;
   transition: 0.3s;
   width: 100%;
-  flex: 0 1 50%;
+  flex: 0 1 47%;
   display:grid;
+  border-radius: 15px;
+  text-align: center;
 }
 
 .card:hover {

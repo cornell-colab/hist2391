@@ -23,7 +23,7 @@ View the projects created by students in the course:
     </a>
   </div>
   <div class="card">
-    <iframe src="https://www.exhibit.so/exhibits/m0Z8snHYpHlWgZby6jIp?embedded=true" width="100&" height="768" allowfullscreen allow="autoplay" frameborder="0"></iframe>
+    <iframe src="https://www.exhibit.so/exhibits/m0Z8snHYpHlWgZby6jIp?embedded=true" width="100%" height="768" allowfullscreen allow="autoplay" frameborder="0"></iframe>
     <a href="https://www.exhibit.so/exhibits/m0Z8snHYpHlWgZby6jIp">
     <div class="card-button">View the Project</div>
     </a>

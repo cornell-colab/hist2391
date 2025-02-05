@@ -27,6 +27,5 @@ View the projects created by students in the course:
     <a href="https://www.exhibit.so/exhibits/m0Z8snHYpHlWgZby6jIp">
     <div class="card-button">View the Project</div>
     </a>
-    by <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/enochparmar&ved=2ahUKEwjv9oaY3KyLAxUcjYkEHfp8OdcQFnoECB0QAQ&usg=AOvVaw1Ywxic1Q265JpTm2t4348X">Enoch Parmar</a>
   </div>
 </div>

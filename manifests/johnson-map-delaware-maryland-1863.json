@@ -1,0 +1,92 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://58f323f3-e55d-4bcf-b841-924b737a7b51",
+	"@type": "sc:Manifest",
+	"label": "1863 Johnson Map of Maryland and Delaware ",
+	"metadata": [
+		{
+			"label": "Cartographer",
+			"value": "Alvin Jewett Johnson (1827-1884)"
+		},
+		{
+			"label": "Source",
+			"value": "Value"
+		},
+		{
+			"label": "Condition",
+			"value": "Very good. Text on verso."
+		},
+		{
+			"label": "References",
+			"value": "Rumsey 0352.027 (1864 edition). Phillips 843."
+		},
+		{
+			"label": "Date",
+			"value": "1863"
+		},
+		{
+			"label": "Dimensions",
+			"value": "Height: 12.5 in (31.7 cm); width: 16.5 in (41.9 cm)"
+		},
+		{
+			"label": "Accession Number",
+			"value": " Geographicus link: MDDE-j-63"
+		},
+		{
+			"label": "Title",
+			"value": " Johnson’s Delaware and Maryland."
+		}
+	],
+	"description": [
+		{
+			"@value": "This is a fine Johnson and Ward map of Maryland and Delaware dating to 1863. Covers both states as well as the capital district in considerable detail. This is the most decorative of Johnson's Maryland-Delaware series with engraved views along the top of the map detailing the 'General Post Office,' the 'Treasury Building' and the 'Patent Office.' Most earlier and later editions of this map remove these decorative elements. An inset map of the District of Columbia is also included in the bottom left quadrant. At the bottom of the map, in the center, a text block describes the work of Mason & Dixon in drawing the Pennsylvania -\nMaryland border along the 38th latitude.\nOffers color coding according to county and notations for railways, roadways, cities, towns, and river systems. Features the fretwork style border common to Johnson's atlas work from 1863 to 1869. Published by Johnson and Ward as plate no. 35 in the scarce 1863 edition of Johnson's Family Atlas. This is the second edition of the Johnson atlas to bear the Johnson and Ward imprint.",
+			"@language": "en"
+		}
+	],
+	"license": "All rights reserved.",
+	"attribution": "Geographicus Rare Anitque Maps",
+	"sequences": [
+		{
+			"@id": "http://c80c4999-7527-403d-a8af-9a5518d0eec7",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://82f4bc59-29e1-4fdc-bb34-6b90aa823241",
+					"@type": "sc:Canvas",
+					"label": "1863 Johnson Map of Maryland and Delaware",
+					"height": 3152,
+					"width": 4000,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://4a775f6e-f488-4e81-8c7c-97affe145b84",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cornell-colab.github.io/hist2391/images/johnson-map-delaware-maryland-1863/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cornell-colab.github.io/hist2391/images/johnson-map-delaware-maryland-1863",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 3152,
+								"width": 4000
+							},
+							"on": "http://82f4bc59-29e1-4fdc-bb34-6b90aa823241"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}

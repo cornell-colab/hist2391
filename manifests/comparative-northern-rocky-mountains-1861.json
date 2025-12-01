@@ -1,0 +1,108 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://2465dae9-c423-41d7-9602-34c6b168a38f",
+	"@type": "sc:Manifest",
+	"label": "Map showing the comparitive area of the Northern and Southern states east of the Rocky Mountains, 1861",
+	"metadata": [
+		{
+			"label": "Date created/published",
+			"value": "1861"
+		},
+		{
+			"label": "Medium",
+			"value": "1 print : wood engraving ; 27.8 x 39.1 cm (sheet)"
+		},
+		{
+			"label": "Reproduction Number",
+			"value": "LC-DIG-ppmsca-19483 (digital file from original print)"
+		},
+		{
+			"label": "Rights Advisory",
+			"value": "No known restrictions on publication."
+		},
+		{
+			"label": "Call Number",
+			"value": "Illus. in AP2.H32 1861 (Case Y) [P&P]"
+		},
+		{
+			"label": "Repository",
+			"value": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+		},
+		{
+			"label": "Notes",
+			"value": "Notes:\n-Title from item.\n-Illus. in: Harper's weekly, v. 5, no. 217 (1861 February 23), p. 124.\n-Exhibited: \"With Malice Toward None : The Abraham Lincoln Bicentennial Exhibition\" at the Library of Congress, Washington, D.C., 2009.\n"
+		},
+		{
+			"label": "Subjects",
+			"value": "Boundaries--United States--1860-1870.; United States--History--Civil War, 1861-1865.\n"
+		},
+		{
+			"label": "Format",
+			"value": "Maps--1860-1870.; Periodical illustrations--1860-1870.; Wood engravings--1860-1870.\n"
+		},
+		{
+			"label": "Collections",
+			"value": "Civil War; Miscellaneous Items in High Demand\n"
+		},
+		{
+			"label": "Bookmark",
+			"value": "https://www.loc.gov/pictures/item/2008680209/ "
+		},
+		{
+			"label": "MARC Record",
+			"value": "https://www.loc.gov/pictures/item/2008680209/marc/"
+		}
+	],
+	"description": [
+		{
+			"@value": "",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "Library of Congress",
+	"sequences": [
+		{
+			"@id": "http://a5c1c02b-c862-4abf-beab-3e15d3cd5cb0",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://19b7de64-4a00-4a41-a3a8-adb5edfa52e2",
+					"@type": "sc:Canvas",
+					"label": "Map showing the comparitive area of the Northern and Southern states east of the Rocky Mountains, 1861",
+					"height": 4666,
+					"width": 6559,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://061649cc-5dce-49ed-9fe4-51eb9e042ea8",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cornell-colab.github.io/hist2391/images/comparative-northern-rocky-mountains-1861/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cornell-colab.github.io/hist2391/images/comparative-northern-rocky-mountains-1861",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4666,
+								"width": 6559
+							},
+							"on": "http://19b7de64-4a00-4a41-a3a8-adb5edfa52e2"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}

@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 125,
+    "height" : 99
+  }, {
+    "width" : 250,
+    "height" : 197
+  }, {
+    "width" : 500,
+    "height" : 394
+  }, {
+    "width" : 1000,
+    "height" : 788
+  }, {
+    "width" : 2000,
+    "height" : 1576
+  }, {
+    "width" : 4000,
+    "height" : 3152
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 4000,
+  "@id" : "https://cornell-colab.github.io/hist2391/images/johnson-map-delaware-maryland-1863",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3152
+}

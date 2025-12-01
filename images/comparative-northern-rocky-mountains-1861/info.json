@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 205,
+    "height" : 146
+  }, {
+    "width" : 410,
+    "height" : 292
+  }, {
+    "width" : 820,
+    "height" : 584
+  }, {
+    "width" : 1640,
+    "height" : 1167
+  }, {
+    "width" : 3280,
+    "height" : 2333
+  }, {
+    "width" : 6559,
+    "height" : 4666
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 6559,
+  "@id" : "https://cornell-colab.github.io/hist2391/images/comparative-northern-rocky-mountains-1861",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4666
+}

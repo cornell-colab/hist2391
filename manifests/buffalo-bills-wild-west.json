@@ -1,0 +1,114 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://f110f9b6-3a7f-46e2-823b-b79ef016e088",
+	"@type": "sc:Manifest",
+	"label": "[Click to edit label]",
+	"metadata": [
+    	{
+      "label": "Title",
+      "value": "Touring Poster of Buffalo Bill’s Wild West Show in Europe"
+    },
+    {
+      "label": "Metadata Usage",
+      "value": "CC0"
+    },
+    {
+      "label": "Caption",
+      "value": "Touring Poster of Buffalo Bill's Wild West Show in Europe"
+    },
+    {
+      "label": "Guid",
+      "value": "https://n2t.net/ark:/65665/ng49ca746b3-ebea-704b-e053-15f76fa0b4fa"
+    },
+    {
+      "label": "Data Source",
+      "value": "National Museum of American History"
+    },
+    {
+      "label": "Measurements",
+      "value": "overall: 26 1/2 in x 39 in; 67.31 cm x 99.06 cm"
+    },
+    {
+      "label": "Description (Brief)",
+      "value": "Poster from 1894 commemorating Buffalo Bill’s first tours in Europe between the years 1887 and 1892. It was printed by A. Hoen & Co. The poster features a map of the tour route and crossings of the Atlantic and images of the famous places in Europe and the United States that the production visited. The map demonstrates the show’s expansive geographic reach and makes the point that it did not only bring the American West to the Eastern United States but was formative in creating myths about the American West abroad as well."
+    },
+    {
+      "label": "Location",
+      "value": "Currently not on view"
+    },
+    {
+      "label": "Place made",
+      "value": "United States: Maryland, Baltimore"
+    },
+    {
+      "label": "Credit Line",
+      "value": "Gift of Anthony Sapienza, DMD"
+    },
+    {
+      "label": "ID Number",
+      "value": "2018.0119.09"
+    },
+    {
+      "label": "Catalog number",
+      "value": "2018.0119.09"
+    },
+    {
+      "label": "Accession number",
+      "value": "2018.0119"
+    },
+    {
+      "label": "Date made",
+      "value": "1894"
+    },
+    {
+      "label": "Object Name",
+      "value": "Poster"
+    }
+  ],
+  "license": "https://www.si.edu/termsofuse",
+  "attribution": "Smithsonian Institution",
+	"sequences": [
+		{
+			"@id": "http://d2c32eea-fb60-49f0-a0ab-b46ee03720fa",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://735d1129-c50e-460a-b2ff-b2474543f48d",
+					"@type": "sc:Canvas",
+					"label": "Touring Poster of Buffalo Bill’s Wild West Show in Europe",
+					"height": 1501,
+					"width": 2000,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://be7019ab-b280-4a53-944a-075d27fd7d5c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cornell-colab.github.io/hist2391/images/buffalo-bills-wild-west/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cornell-colab.github.io/hist2391/images/buffalo-bills-wild-west",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 1501,
+								"width": 2000
+							},
+							"on": "http://735d1129-c50e-460a-b2ff-b2474543f48d"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}

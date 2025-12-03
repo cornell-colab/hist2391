@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://f110f9b6-3a7f-46e2-823b-b79ef016e088",
+	"@id": "https://cornell-colab.github.io/hist2391/manifests/buffalo-bills-wild-west.json",
 	"@type": "sc:Manifest",
 	"label": "[Click to edit label]",
 	"metadata": [

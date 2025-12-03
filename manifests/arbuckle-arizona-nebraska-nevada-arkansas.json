@@ -1,0 +1,155 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://93ff3727-ca67-487a-bbcb-6ec1d467bea3",
+	"@type": "sc:Manifest",
+	"label": "[Click to edit label]",
+	 "metadata" : [ {
+        "label" : "Author",
+        "value" : "Arbuckle Bros."
+      }, {
+        "label" : "Date",
+        "value" : "1889"
+      }, {
+        "label" : "Short Title",
+        "value" : "Territory of Arizona, Nebraska, Nevada, Arkansas."
+      }, {
+        "label" : "Publisher",
+        "value" : "Arbuckle Bros."
+      }, {
+        "label" : "Publisher Location",
+        "value" : "New York"
+      }, {
+        "label" : "Type",
+        "value" : "Atlas Map"
+      }, {
+        "label" : "Obj Height cm",
+        "value" : "18"
+      }, {
+        "label" : "Obj Width cm",
+        "value" : "27"
+      }, {
+        "label" : "Scale 1",
+        "value" : "Various"
+      }, {
+        "label" : "Note",
+        "value" : "Sheet with maps of four states in full color. The notes about Arizona describe the Grand Canyon (\"a deep channel through the rocks, so that for long distances it flows between perpendicular walls 7,000 feet in height\") but does not call it such. Nevada is known as the \"great silver State of the Union.\" Each card measures 7.5 x 12.5 cm."
+      }, {
+        "label" : "Reference",
+        "value" : "None found."
+      }, {
+        "label" : "State/Province",
+        "value" : "Arizona"
+      }, {
+        "label" : "State/Province",
+        "value" : "Arkansas"
+      }, {
+        "label" : "State/Province",
+        "value" : "Nebraska"
+      }, {
+        "label" : "State/Province",
+        "value" : "Nevada"
+      }, {
+        "label" : "Subject",
+        "value" : "Pictorial map"
+      }, {
+        "label" : "Full Title",
+        "value" : "Territory of Arizona, Nebraska, Nevada, Arkansas. Copyright 1889 Arbuckle Bros. N.Y."
+      }, {
+        "label" : "List No",
+        "value" : "0027.012"
+      }, {
+        "label" : "Series No",
+        "value" : "13"
+      }, {
+        "label" : "Publication Author",
+        "value" : "Arbuckle Bros."
+      }, {
+        "label" : "Pub Date",
+        "value" : "1889"
+      }, {
+        "label" : "Pub Title",
+        "value" : "Arbuckles' lllustrated Atlas of the United States of America. Copyright 1889, Arbuckle Bros. N.Y."
+      }, {
+        "label" : "Pub Reference",
+        "value" : "None found."
+      }, {
+        "label" : "Pub Note",
+        "value" : "4 maps (cards) to a page. All in full color with map surrounded by representative scenes from each state. Opposite each page of map cards are notes about each state shown. The state information includes population, weather, agriculture, manufacturing, and geography. Each note includes a plug for \"Arbuckles' Ariosa Coffee.\" Paper covers and bound with string on the left-hand side."
+      }, {
+        "label" : "Pub List No",
+        "value" : "0027.000"
+      }, {
+        "label" : "Pub Type",
+        "value" : "National Atlas"
+      }, {
+        "label" : "Pub Maps",
+        "value" : "51"
+      }, {
+        "label" : "Pub Height cm",
+        "value" : "18"
+      }, {
+        "label" : "Pub Width cm",
+        "value" : "28"
+      }, {
+        "label" : "Image No",
+        "value" : "0027012"
+      }, {
+        "label" : "Download 1",
+        "value" : "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0016/0027012.sid target=_blank>Full Image Download in MrSID Format</a>"
+      }, {
+        "label" : "Download 2",
+        "value" : "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+      }, {
+        "label" : "Authors",
+        "value" : "Arbuckle Bros."
+      }, {
+        "label" : "Collection",
+        "value" : "Rumsey Collection"
+      } ],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://b0f20147-2648-42dd-b1b7-ead2c59a0d07",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://444a2043-b475-4603-8fd0-9af929c2e325",
+					"@type": "sc:Canvas",
+					"label": "Territory of Arizona, Nebraska, Nevada, Arkansas.",
+					"height": 2185,
+					"width": 3433,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://db930dfa-4612-4047-a4a0-032225d2bf42",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cornell-colab.github.io/hist2391/images/arbuckle-arizona-nebraska-nevada-arkansas/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cornell-colab.github.io/hist2391/images/arbuckle-arizona-nebraska-nevada-arkansas",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 2185,
+								"width": 3433
+							},
+							"on": "http://444a2043-b475-4603-8fd0-9af929c2e325"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}

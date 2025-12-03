@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 108,
+    "height" : 69
+  }, {
+    "width" : 215,
+    "height" : 137
+  }, {
+    "width" : 430,
+    "height" : 274
+  }, {
+    "width" : 859,
+    "height" : 547
+  }, {
+    "width" : 1717,
+    "height" : 1093
+  }, {
+    "width" : 3433,
+    "height" : 2185
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3433,
+  "@id" : "https://cornell-colab.github.io/hist2391/images/arbuckle-arizona-nebraska-nevada-arkansas",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2185
+}

@@ -1,8 +1,8 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://93ff3727-ca67-487a-bbcb-6ec1d467bea3",
+	"@id": "https://cornell-colab.github.io/hist2391/manifests/arbuckle-arizona-nebraska-nevada-arkansas.json",
 	"@type": "sc:Manifest",
-	"label": "[Click to edit label]",
+	"label": "Territory of Arizona, Nebraska, Nevada, Arkansas.",
 	 "metadata" : [ {
         "label" : "Author",
         "value" : "Arbuckle Bros."

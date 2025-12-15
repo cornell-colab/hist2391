@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://b2ef6c1c-d170-43ca-9354-6c06e3224302",
+	"@id": "https://cornell-colab.github.io/hist2391/manifests/village-of-yonkers-1851.json",
 	"@type": "sc:Manifest",
 	"label": "Map of the Village of Yonkers",
 	"metadata": [

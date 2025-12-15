@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 128,
+    "height" : 86
+  }, {
+    "width" : 255,
+    "height" : 172
+  }, {
+    "width" : 509,
+    "height" : 344
+  }, {
+    "width" : 1017,
+    "height" : 688
+  }, {
+    "width" : 2034,
+    "height" : 1376
+  }, {
+    "width" : 4068,
+    "height" : 2752
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 4068,
+  "@id" : "http://localhost:8887/iiif/village-of-yonkers-1851",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2752
+}

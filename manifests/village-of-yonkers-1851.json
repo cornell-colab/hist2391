@@ -1,0 +1,124 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://b2ef6c1c-d170-43ca-9354-6c06e3224302",
+	"@type": "sc:Manifest",
+	"label": "Map of the Village of Yonkers",
+	"metadata": [
+		{
+			"label": "Map Date",
+			"value": "1851-08"
+		},
+		{
+			"label": "Abstract",
+			"value": "Shows roads, land owners, and land features."
+		},
+		{
+			"label": "Map Details",
+			"value": "Hudson River\nBuildings\nAlbany Post Road or New York to Albany Post Road\nRailroads\nSaw Mill River\nLand owners\nNepperhan River\nCroton Aqueduct\nSeminaries\nFactories\nSaw mills\nChurches\nRailroad stations\nSteamboat landings\nDocks"
+		},
+		{
+			"label": "Surveyor",
+			"value": "Thomas C. Cornell, Civil Engineer"
+		},
+		{
+			"label": "Location",
+			"value": "Yonkers (City) - Westchester County - New York"
+		},
+		{
+			"label": "Corporate Name",
+			"value": "Hudson River Railroad\nBaldwin & Waring's Hat body Factory\nJ.T. Waring Hat Factory"
+		},
+		{
+			"label": "Format",
+			"value": "map on paper on linen; color, 22 in. x 34 in.; scale: 300 ft. to an inch"
+		},
+		{
+			"label": "Type",
+			"value": "Image: Map"
+		},
+		{
+			"label": "Language",
+			"value": "English"
+		},
+		{
+			"label": "Source",
+			"value": "County Clerk filed map no. 5"
+		},
+		{
+			"label": "Contributing Institution",
+			"value": "Westchester County Archives"
+		},
+		{
+			"label": "Contact Information",
+			"value": "2199 Saw Mill River Road, Elmsford, NY 10523; 914.231.1500; http://archives.westchestergov.com"
+		},
+		{
+			"label": "Digital Collection",
+			"value": "County Clerk Maps\nHistorical Maps"
+		},
+		{
+			"label": "Date Digital",
+			"value": "2009-05"
+		},
+		{
+			"label": "Digitization Specifications",
+			"value": "Archival TIFF - Zeutchel OS 10000, Omniscan 11, Adobe Photoshop CS3, 400 dpi, 24 bit color, no compression; JPG2000 - enhanced for web"
+		},
+		{
+			"label": "Metadata Technician",
+			"value": "Courtney Fallon"
+		}
+	],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "Courtesy of the Westchester County Archives. This image is provided for education and research purposes and should not be altered in any way. Rights may be reserved.  Responsibility for securing permissions to distribute, publish, reproduce or other use rests with the user.  For additional information see our Image Use Policy.",
+	"attribution": "Courtesy of the Westchester County Archives",
+	"sequences": [
+		{
+			"@id": "http://60da73cf-6b2b-4fe2-9a97-4ae310db6055",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://4c498af4-36db-4313-9df3-57a2259f16b3",
+					"@type": "sc:Canvas",
+					"label": "Map of the Village of Yonkers",
+					"height": 2752,
+					"width": 4068,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://5b89b069-ed8a-4556-9052-1eed00abb720",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cornell-colab.github.io/hist2391/images/village-of-yonkers-1851/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cornell-colab.github.io/hist2391/images/village-of-yonkers-1851",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 2752,
+								"width": 4068
+							},
+							"on": "http://4c498af4-36db-4313-9df3-57a2259f16b3"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}

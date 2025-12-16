@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 80,
+    "height" : 104
+  }, {
+    "width" : 160,
+    "height" : 207
+  }, {
+    "width" : 319,
+    "height" : 413
+  }, {
+    "width" : 638,
+    "height" : 825
+  }, {
+    "width" : 1275,
+    "height" : 1650
+  }, {
+    "width" : 2550,
+    "height" : 3300
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2550,
+  "@id" : "http://localhost:8887/iiif/annual-report-16th-pt",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3300
+}

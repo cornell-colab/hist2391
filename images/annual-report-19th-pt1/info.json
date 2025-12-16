@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 82,
+    "height" : 74
+  }, {
+    "width" : 163,
+    "height" : 147
+  }, {
+    "width" : 325,
+    "height" : 293
+  }, {
+    "width" : 650,
+    "height" : 585
+  }, {
+    "width" : 1300,
+    "height" : 1169
+  }, {
+    "width" : 2600,
+    "height" : 2338
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2600,
+  "@id" : "http://localhost:8887/iiif/annual-report-19th-pt1",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2338
+}

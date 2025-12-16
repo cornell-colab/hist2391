@@ -4,9 +4,11 @@
 	"@type": "sc:Manifest",
 	"label": "The Last Council of the Potta Watomies, 1833",
 	"metadata": [
+		{
 		"date": "1893",
 		"place":"Illinois--Chicago",
 		"subjects":"Cities & towns, Men, World's Columbian Exposition"
+		}
 	],
 	"description": [
 		{

@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://72c32cee-30ec-42c6-9121-025a5fbfe951",
+	"@id": "https://cornell-colab.github.io/hist2391/manifests/council-potta-watomies-1833.json",
 	"@type": "sc:Manifest",
 	"label": "[Click to edit label]",
 	"metadata": [],

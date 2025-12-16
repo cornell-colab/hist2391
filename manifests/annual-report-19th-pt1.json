@@ -1,0 +1,59 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://16b49522-8e66-4c7f-81dc-40d44fc67ad4",
+	"@type": "sc:Manifest",
+	"label": "The Chrerokee and Their Neighbors",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "Annual report of the Bureau of American Ethnology to the Secretary of the Smithsonian Institution, Washington, U. S. Govt. Print. Off, 1897. Vols. 16-48 include accompanying papers. Report year ends June 30.E51 .U67. ISSN (print): 0097-269X. Pl. LVII (Foldout, Map).",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "Smithsonian Institution",
+	"sequences": [
+		{
+			"@id": "http://c187b23c-53e2-4ec7-82c2-51511037e29d",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://479c8334-a15e-4e52-9e1b-5977a65f9e3f",
+					"@type": "sc:Canvas",
+					"label": "The Chrerokee and Their Neighbors",
+					"height": 2338,
+					"width": 2600,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://87d36fb6-7043-485e-b190-b909b7e78cf0",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cornell-colab.github.io/hist2391/images/annual-report-19th-pt1/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cornell-colab.github.io/hist2391/images/annual-report-19th-pt1",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 2338,
+								"width": 2600
+							},
+							"on": "http://479c8334-a15e-4e52-9e1b-5977a65f9e3f"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}

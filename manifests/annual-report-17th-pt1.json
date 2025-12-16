@@ -1,0 +1,59 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://f426412c-359a-4b39-887a-c35bf1ab2b40",
+	"@type": "sc:Manifest",
+	"label": "The Kiowa Range",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "Annual report of the Bureau of American Ethnology to the Secretary of the Smithsonian Institution, Washington, U. S. Govt. Print. Off, 1897. Vols. 16-48 include accompanying papers. Report year ends June 30.E51 .U67. ISSN (print): 0097-269X. Pl. LVII (Foldout, Map).\n",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "Smithsonian Institution",
+	"sequences": [
+		{
+			"@id": "http://a8604019-b1db-40fa-841f-4ab66fcaf87c",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://6a547713-4a1f-44bc-974b-e657db0f10b5",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 2338,
+					"width": 3784,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://0adf3978-894b-43e4-9534-afe0ebf22fe9",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cornell-colab.github.io/hist2391/images/annual-report-17th-pt1/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cornell-colab.github.io/hist2391/images/annual-report-17th-pt1",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 2338,
+								"width": 3784
+							},
+							"on": "http://6a547713-4a1f-44bc-974b-e657db0f10b5"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}

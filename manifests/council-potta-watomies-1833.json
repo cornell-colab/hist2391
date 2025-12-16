@@ -3,11 +3,15 @@
 	"@id": "https://cornell-colab.github.io/hist2391/manifests/council-potta-watomies-1833.json",
 	"@type": "sc:Manifest",
 	"label": "The Last Council of the Potta Watomies, 1833",
-	"metadata": [],
+	"metadata": [
+		"date": "1893",
+		"place":"Illinois--Chicago",
+		"subjects":"Cities & towns, Men, World's Columbian Exposition"
+	],
 	"description": [
 		{
-			"@value": "[Click to edit description]",
-			"@language": "en"
+			"@value": "Men in suits and blue and white uniforms standing across from Native American people with a fire between them and teepees in the background ",
+			"@language": "en",
 		}
 	],
 	"license": "https://creativecommons.org/licenses/by/3.0/",

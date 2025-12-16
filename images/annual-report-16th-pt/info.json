@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 2550,
-  "@id" : "http://localhost:8887/iiif/annual-report-16th-pt",
+  "@id" : "https://cornell-colab.github.io/hist2391/images/annual-report-16th-pt",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 3300
 }

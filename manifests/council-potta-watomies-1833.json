@@ -1,0 +1,59 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://72c32cee-30ec-42c6-9121-025a5fbfe951",
+	"@type": "sc:Manifest",
+	"label": "[Click to edit label]",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://76d677ec-9bcd-4047-8080-f3445c66f444",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://c57d3f04-dc42-4bb2-88e1-0be6466bcdd4",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 2390,
+					"width": 3622,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://f8cb8ad0-9dcd-4023-8af6-95aed22224c1",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cornell-colab.github.io/hist2391/images/council-potta-watomies-1833/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "https://iiif.io/api/image/2/context.json",
+									"@id": "https://cornell-colab.github.io/hist2391/images/council-potta-watomies-1833",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 2390,
+								"width": 3622
+							},
+							"on": "http://c57d3f04-dc42-4bb2-88e1-0be6466bcdd4"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}

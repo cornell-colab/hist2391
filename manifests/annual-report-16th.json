@@ -1,0 +1,59 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://c3bb8f87-e4ac-4714-98e6-4e5e1e9a1181",
+	"@type": "sc:Manifest",
+	"label": "Ancient Pueblo Region",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "Annual report of the Bureau of American Ethnology to the Secretary of the Smithsonian Institution, Washington, U. S. Govt. Print. Off, 1897. Vols. 16-48 include accompanying papers. Report year ends June 30.E51 .U67. ISSN (print): 0097-269X. Pl. XLI (Foldout, Map).",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "Smithsonian Institution",
+	"sequences": [
+		{
+			"@id": "http://0bec14bd-5802-48de-8f88-ae2c467ec315",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://5d0db29e-d1a9-4935-ba45-dcca5ccf8fc5",
+					"@type": "sc:Canvas",
+					"label": "Ancient Pueblo Region",
+					"height": 3336,
+					"width": 4096,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://edfa5263-efef-464c-82bb-8c9e464fbc03",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cornell-colab.github.io/hist2391/images/annual-report-16th/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cornell-colab.github.io/hist2391/images/annual-report-16th",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 3336,
+								"width": 4096
+							},
+							"on": "http://5d0db29e-d1a9-4935-ba45-dcca5ccf8fc5"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}

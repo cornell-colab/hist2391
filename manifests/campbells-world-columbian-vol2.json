@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://75e756f2-1280-45e9-9e3c-f8da885df689",
+	"@id": "https://cornell-colab.github.io/hist2391/manifests/campbells-world-columbian-vol2.json",
 	"@type": "sc:Manifest",
 	"label": "[Click to edit label]",
 	"metadata": [],

@@ -1,5 +1,5 @@
 {
-  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
   "id": "https://cornell-colab.github.io/hist2391/manifests/test.json",
   "type": "Manifest",
   "label": {

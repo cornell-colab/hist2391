@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://example.org/2ri2u8t3oc5-mw9ltm2p",
+  "id": "https://cornell-colab.github.io/hist2391/manifests/oya_1.json",
   "type": "Manifest",
   "label": {
     "en": [

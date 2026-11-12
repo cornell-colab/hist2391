@@ -1,0 +1,83 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/fv8qk2xq0b-mw9mqckd",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Colorful oya chain"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://example.org/fv8qk2xq0b-mw9mqckd/canvas/hsk1i1tggyo-mw9mrbpa",
+      "type": "Canvas",
+      "height": 750,
+      "width": 750,
+      "label": {
+        "en": [
+          "Oya"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/fv8qk2xq0b-mw9mqckd/canvas/hsk1i1tggyo-mw9mrbpa/annotation-page/ni5qqaw2egk-mw9mrbpa",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/fv8qk2xq0b-mw9mqckd/annotation/jsatfvtv61r-mw9mrbmf",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/fv8qk2xq0b-mw9mqckd/canvas/hsk1i1tggyo-mw9mrbpa",
+              "body": {
+                "id": "https://cdn0.rubylane.com/_podl/item/141724/KM610/Colorful-Turkish-Oya-Hand-Crocheted-Leaves-pic-1A-720:15.15-4002615a.webp",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 750,
+                "width": 750
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://example.org/fv8qk2xq0b-mw9mqckd/canvas/hsk1i1tggyo-mw9mrbpa/annotations/cj4cc4x1jov-mw9mrn2n",
+          "type": "AnnotationPage",
+          "label": {
+            "en": [
+              "Inline annotations"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://example.org/fv8qk2xq0b-mw9mqckd/canvas/hsk1i1tggyo-mw9mrbpa/annotations/cj4cc4x1jov-mw9mrn2n/annotation/5ppkq2schl-mw9ms1ad",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://example.org/fv8qk2xq0b-mw9mqckd/canvas/hsk1i1tggyo-mw9mrbpa#xywh=5,387,68,71",
+              "body": {
+                "id": "https://example.org/fv8qk2xq0b-mw9mqckd/canvas/hsk1i1tggyo-mw9mrbpa/annotations/cj4cc4x1jov-mw9mrn2n/annotation/5ppkq2schl-mw9ms1ad/html/en/r3fa4hqen6j-mw9ms1ad",
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<p>This roundel represents…</p>"
+              }
+            },
+            {
+              "id": "https://example.org/fv8qk2xq0b-mw9mqckd/canvas/hsk1i1tggyo-mw9mrbpa/annotations/cj4cc4x1jov-mw9mrn2n/annotation/h96pcz4aqxh-mw9mshuo",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://example.org/fv8qk2xq0b-mw9mqckd/canvas/hsk1i1tggyo-mw9mrbpa#xywh=423,390,86,87",
+              "body": {
+                "id": "https://example.org/fv8qk2xq0b-mw9mqckd/canvas/hsk1i1tggyo-mw9mrbpa/annotations/cj4cc4x1jov-mw9mrn2n/annotation/h96pcz4aqxh-mw9mshuo/html/en/e4pfa5zbjs-mw9mshuo",
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<p>This roundel represents…</p>"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

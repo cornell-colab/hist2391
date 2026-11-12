@@ -1,0 +1,83 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/2ri2u8t3oc5-mw9ltm2p",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Blank Manifest"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://example.org/2ri2u8t3oc5-mw9ltm2p/canvas/3p4gd1s8kgg-mw9luw14",
+      "type": "Canvas",
+      "height": 200,
+      "width": 300,
+      "label": {
+        "en": [
+          "Untitled canvas"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/2ri2u8t3oc5-mw9ltm2p/canvas/3p4gd1s8kgg-mw9luw14/annotation-page/rtiyzcvxzt-mw9luw14",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/2ri2u8t3oc5-mw9ltm2p/annotation/mo7i4wmy3bd-mw9luvgx",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/2ri2u8t3oc5-mw9ltm2p/canvas/3p4gd1s8kgg-mw9luw14",
+              "body": {
+                "id": "https://trc-leiden.nl/trc-needles/media/k2/items/cache/bf6c11414b7edb549aa3f529d3b540c5_L.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 200,
+                "width": 300
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://example.org/2ri2u8t3oc5-mw9ltm2p/canvas/3p4gd1s8kgg-mw9luw14/annotations/29j75f553kk-mw9lwtgx",
+          "type": "AnnotationPage",
+          "label": {
+            "en": [
+              "Inline annotations"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://example.org/2ri2u8t3oc5-mw9ltm2p/canvas/3p4gd1s8kgg-mw9luw14/annotations/29j75f553kk-mw9lwtgx/annotation/8n40hiwmwfp-mw9lx795",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://example.org/2ri2u8t3oc5-mw9ltm2p/canvas/3p4gd1s8kgg-mw9luw14#xywh=144,39,13,14",
+              "body": {
+                "id": "https://example.org/2ri2u8t3oc5-mw9ltm2p/canvas/3p4gd1s8kgg-mw9luw14/annotations/29j75f553kk-mw9lwtgx/annotation/8n40hiwmwfp-mw9lx795/html/en/jhqnw7qfys-mw9lx795",
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<p>Button</p>"
+              }
+            },
+            {
+              "id": "https://example.org/2ri2u8t3oc5-mw9ltm2p/canvas/3p4gd1s8kgg-mw9luw14/annotations/29j75f553kk-mw9lwtgx/annotation/1cdpvoyp3ul-mw9lxpq4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://example.org/2ri2u8t3oc5-mw9ltm2p/canvas/3p4gd1s8kgg-mw9luw14#xywh=144,66,31,35",
+              "body": {
+                "id": "https://example.org/2ri2u8t3oc5-mw9ltm2p/canvas/3p4gd1s8kgg-mw9luw14/annotations/29j75f553kk-mw9lwtgx/annotation/1cdpvoyp3ul-mw9lxpq4/html/en/fm5tr2fyqjr-mw9lxpq4",
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<p>Flowers are pretty</p>"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

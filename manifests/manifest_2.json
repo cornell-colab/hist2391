@@ -1,0 +1,109 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/nj98c3wh1h-mw9lywbu",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "An oya-maker's library, showing a selection of oya edgings that she could make, for customers to choose from"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://example.org/nj98c3wh1h-mw9lywbu/canvas/bfebmx8wep-mw9mncfn",
+      "type": "Canvas",
+      "height": 369,
+      "width": 542,
+      "label": {
+        "en": [
+          "Oya"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Location"
+            ]
+          },
+          "value": {
+            "en": [
+              "Turkey"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Date"
+            ]
+          },
+          "value": {
+            "en": [
+              "2008"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/nj98c3wh1h-mw9lywbu/canvas/bfebmx8wep-mw9mncfn/annotation-page/53pfxqreha7-mw9mncfn",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/nj98c3wh1h-mw9lywbu/annotation/bv6lyx2a00u-mw9mnccp",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/nj98c3wh1h-mw9lywbu/canvas/bfebmx8wep-mw9mncfn",
+              "body": {
+                "id": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnoecrVYJYiCPceWbGZBiZNgz340wI7oj2UPVph0Flb97EIfV4ItI3Bz4&s=10",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 369,
+                "width": 542
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://example.org/nj98c3wh1h-mw9lywbu/canvas/bfebmx8wep-mw9mncfn/annotations/yq0ctvrqg7-mw9mp05v",
+          "type": "AnnotationPage",
+          "label": {
+            "en": [
+              "Inline annotations"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://example.org/nj98c3wh1h-mw9lywbu/canvas/bfebmx8wep-mw9mncfn/annotations/yq0ctvrqg7-mw9mp05v/annotation/nvs2fjimzq-mw9mpj6e",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://example.org/nj98c3wh1h-mw9lywbu/canvas/bfebmx8wep-mw9mncfn#xywh=196,173,47,47",
+              "body": {
+                "id": "https://example.org/nj98c3wh1h-mw9lywbu/canvas/bfebmx8wep-mw9mncfn/annotations/yq0ctvrqg7-mw9mp05v/annotation/nvs2fjimzq-mw9mpj6e/html/en/ejp28z9gt3b-mw9mpj6e",
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<p>This yellow flower represents….</p>"
+              }
+            },
+            {
+              "id": "https://example.org/nj98c3wh1h-mw9lywbu/canvas/bfebmx8wep-mw9mncfn/annotations/yq0ctvrqg7-mw9mp05v/annotation/dekwwsh4ije-mw9mpx08",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://example.org/nj98c3wh1h-mw9lywbu/canvas/bfebmx8wep-mw9mncfn#xywh=156,277,60,45",
+              "body": {
+                "id": "https://example.org/nj98c3wh1h-mw9lywbu/canvas/bfebmx8wep-mw9mncfn/annotations/yq0ctvrqg7-mw9mp05v/annotation/dekwwsh4ije-mw9mpx08/html/en/t5ns64msrs9-mw9mpx08",
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<p>This cluster of flowers represents….</p>"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
